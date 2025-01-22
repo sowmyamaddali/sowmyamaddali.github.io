@@ -75,7 +75,18 @@
 
 
 ## 🤝 Volunteer Experience
-- Access Services Assistant, George Washington University, Washington, D.C 
-- Development Data Partnership Day volunteer, The World Bank Group, Washington, D.C 
-- Economic Development volunteer, International Monetary Fund, Annual Meeting, Washington, D. C 
-- Economic Development volunteer, International Monetary Fund, Annual Meeting, Washington, D. C 
+
+### Access Services Assistant | George Washington University
+_Washington, D.C | August 2023 - May 2024_
+
+### Development Data Partnership Day Volunteer | The World Bank Group
+_Washington, D.C | Oct 2023_
+
+### Economic Development Volunteer | International Monetary Fund
+_Washington, D.C | Oct 2023_
+Annual Meeting
+
+### Economic Development Volunteer | International Monetary Fund
+_Washington, D.C | Apr 2023_
+Spring Meeting
+
