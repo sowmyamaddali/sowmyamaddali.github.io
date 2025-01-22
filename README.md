@@ -80,13 +80,13 @@
 _Washington, D.C | August 2023 - May 2024_
 
 #### Development Data Partnership Day Volunteer | The World Bank Group
-_Washington, D.C | Oct 2023_
+_Washington, D.C | October 2023_
 
 #### Economic Development Volunteer | International Monetary Fund
-_Washington, D.C | Oct 2023_
+_Washington, D.C | October 2023_
 Annual Meeting
 
 #### Economic Development Volunteer | International Monetary Fund
-_Washington, D.C | Apr 2023_
+_Washington, D.C | April 2023_
 Spring Meeting
 
