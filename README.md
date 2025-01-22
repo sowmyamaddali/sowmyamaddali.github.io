@@ -52,7 +52,7 @@ Data Scientist specializing in:
 
 ## 🚀 Featured Projects
 ### [Revenue Prediction & Customer Analytics for Supermarket Data] (https://github.com/sowmyamaddali/Revenue-Prediction-Customer-Analytics-for-Supermarket-Data)
-![Supermarket Revenue Prediction Architecture](./assets/Picture1.jpg)
+![Supermarket Revenue Prediction Architecture](/assets/Picture1.jpg)
 - **Data Preparation**: Enhanced supermarket dataset integrity through cleaning and processing of five datasets, implementing NLTK for product re-categorization to reduce bias
 - **Model Implementation**: Deployed multiple predictive models including Linear Regression, Random Forest, XGBoost, Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), and ARIMA, with Random Forest emerging as the top performer
 - **Interactive Solution**: Created a customer-facing Streamlit application enabling product price comparisons, displaying historical pricing data, quantity metrics, and ownership information
