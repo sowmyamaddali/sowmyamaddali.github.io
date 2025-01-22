@@ -1,5 +1,5 @@
 ## 🎯 What I Do
-Data Scientist specializing in:
+**Data Scientist specializing in**:
 - Building scalable ML solutions with Python and PySpark
 - Developing cloud-based data processing systems using AWS
 - Creating interactive data visualizations and dashboards with Tableau
@@ -20,8 +20,7 @@ Data Scientist specializing in:
 - India
 
 
-## 💻 Tech Stack
-
+## 💻 Technical Skills
 - **Programming**: Python, R
 - **Data Processing & Database Technologies**: Apache Spark, SQL, PostgreSQL, MongoDB
 - **Data Analysis & Visualization Tools**: Microsoft Excel, Tableau
@@ -51,7 +50,7 @@ Data Scientist specializing in:
 
 
 ## 🚀 Featured Projects
-### [Breast Cancer Survival Analysis & Prediction](https://github.com/sowmyamaddali/Breast-Cancer--METABRIC)
+### [Breast Cancer Survival Analysis & Prediction](https://github.com/sowmyamaddali/Breast-Cancer--METABRIC) | (Current)
 - **Clinical Analysis**: Investigating survival risk factors in non-elderly patients with Invasive Ductal Carcinoma at non-metastatic advanced stages5
 - **Data Integration**: Working with comprehensive patient profiles including clinical data, genetic markers, and treatment outcomes
 - **Predictive Modeling**: Developing machine learning models to identify key survival predictors across genetics, treatment protocols, and clinical factors
@@ -63,10 +62,11 @@ Data Scientist specializing in:
 - **Interactive Solution**: Created a customer-facing Streamlit application enabling product price comparisons, displaying historical pricing data, quantity metrics, and ownership information
 
 
-### [Immunization Coverage Analysis](https://public.tableau.com/views/Immunization-Activities/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [Immunization Coverage Analysis](https://public.tableau.com/views/Immunization-Activities/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | (May 2024)
 - **Temporal Analysis**: Tracked measles and rubella vaccination trends across a 24-year period (2000-2024) using interactive Tableau visualizations
 - **Geographic Mapping**: Created comprehensive global coverage maps to identify regional vaccination patterns and disparities
 - **Strategic Insights**: Developed actionable dashboards for public health stakeholders to optimize immunization program implementation
+
 
 ### [Analyzing-Macroeconomic-Trends](https://github.com/sowmyamaddali/Analyzing-Macroeconomic-Trends) | (August - December 2023)
 - **Data Integration**: Analyzed four critical economic indicators including Consumer Price Index (CPIAUCSL) and Producer Price Index (PPIACO) to evaluate contemporary economic dynamics
@@ -74,3 +74,8 @@ Data Scientist specializing in:
 - **Economic Impact Assessment**: Conducted comprehensive evaluation of price changes across urban consumer markets and domestic producer sectors to reveal economic trends and market dynamics
 
 
+## 🤝 Volunteer Experience
+- Access Services Assistant, George Washington University, Washington, D.C | August 2023 - May 2024
+- Development Data Partnership Day volunteer, The World Bank Group, Washington, D.C | May 2023
+- Economic Development volunteer, International Monetary Fund, Annual Meeting, Washington, D. C | April 2023
+- Economic Development volunteer, International Monetary Fund, Annual Meeting, Washington, D. C | October 2022
