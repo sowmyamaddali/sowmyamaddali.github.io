@@ -7,6 +7,7 @@ Data Scientist specializing in:
 - Conducting advanced statistical analysis and forecasting
 - Optimizing business operations through data-driven insights
 
+
 ## 🎓 Education
 ### The George Washington University
 **M.S. Data Science** _(GPA: 3.97/4.0)_
@@ -20,14 +21,13 @@ Data Scientist specializing in:
 
 
 ## 💻 Tech Stack
-skills = {
-'Languages': ['Python', 'R', 'SQL'],
-'Big Data': ['Apache Spark', 'PySpark'],
-'Databases': ['PostgreSQL', 'MongoDB'],
-'ML/AI': ['Scikit-learn', 'TensorFlow', 'Keras'],
-'Cloud': ['AWS Lambda', 'AWS Services'],
-'Tools': ['Git', 'Tableau', 'Jupyter']
-}
+
+- **Programming**: Python, R
+- **Data Processing & Database Technologies**: Apache Spark, SQL, PostgreSQL, MongoDB
+- **Data Analysis & Visualization Tools**: Microsoft Excel, Tableau
+- **Machine Learning & Statistical Analysis Tools**: Scikit-learn, TensorFlow, Keras, RStudio, Jupyter Notebook
+- **Cloud Platform & Version Control**: AWS, Git
+
 
 ## 💼 Professional Experience
 ### Data Scientist | Fannie Mae (August 2024 - Present)
@@ -50,4 +50,10 @@ skills = {
 - Implemented systematic data cleaning processes
 
 
+## 🚀 Featured Projects
+### [Revenue Prediction & Customer Analytics for Supermarket Data] (https://github.com/sowmyamaddali/Revenue-Prediction-Customer-Analytics-for-Supermarket-Data)
+![Supermarket Revenue Prediction Architecture](/assets/Picture1.jpg)
+- **Data Preparation**: Enhanced supermarket dataset integrity through cleaning and processing of five datasets, implementing NLTK for product re-categorization to reduce bias
+- **Model Implementation**: Deployed multiple predictive models including Linear Regression, Random Forest, XGBoost, Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), and ARIMA, with Random Forest emerging as the top performer
+- **Interactive Solution**: Created a customer-facing Streamlit application enabling product price comparisons, displaying historical pricing data, quantity metrics, and ownership information
 
