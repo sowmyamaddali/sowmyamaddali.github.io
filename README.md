@@ -1,21 +1,8 @@
-# sowmyamaddali.github.io
-
-# Data Scientist
-
-### Education
-
-### Technical Skills
-
-### Work Experience
-## Company 1
-## Company 2
-## Company 3
-## Company 4
-
-### Technical Projects
-## Project 1
-## Project 2
-## Project 3
-## Project 4
-
-### Volunteer Experience
+## 🎯 What I Do
+Data Scientist specializing in:
+- Building scalable ML solutions with Python and PySpark
+- Developing cloud-based data processing systems using AWS
+- Creating interactive data visualizations and dashboards with Tableau
+- Implementing end-to-end machine learning pipelines
+- Conducting advanced statistical analysis and forecasting
+- Optimizing business operations through data-driven insights
