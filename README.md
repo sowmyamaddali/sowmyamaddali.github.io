@@ -8,12 +8,16 @@ Data Scientist specializing in:
 - Optimizing business operations through data-driven insights
 
 ## 🎓 Education
-- M.S. Data Science** | The George Washington University (_GPA: 3.97/4.0_)
-- **B.E. Computer Science & Engineering** | Visvesvaraya Technological University (_GPA: 8.1/10.0_)
+### The George Washington University
+**M.S. Data Science** _(GPA: 3.97/4.0)_
+- Graduated: May 2024
+- Washington, DC
 
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+### Visvesvaraya Technological University
+**B.E. Computer Science & Engineering** _(GPA: 8.1/10.0)_
+- Graduated: July 2021
+- India
+
 
 ## 💻 Tech Stack
 skills = {
