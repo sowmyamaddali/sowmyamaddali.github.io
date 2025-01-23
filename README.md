@@ -50,7 +50,7 @@
 
 
 ## 🚀 Featured Projects
-### [Breast Cancer Survival Analysis & Prediction](https://github.com/sowmyamaddali/Breast-Cancer--METABRIC) | (Current)
+### <a href="https://github.com/sowmyamaddali/Breast-Cancer--METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer Survival Analysis & Prediction</a> | (Current)
 - **Clinical Analysis**: Investigating survival risk factors in non-elderly patients with Invasive Ductal Carcinoma at non-metastatic advanced stages5
 - **Data Integration**: Working with comprehensive patient profiles including clinical data, genetic markers, and treatment outcomes
 - **Predictive Modeling**: Developing machine learning models to identify key survival predictors across genetics, treatment protocols, and clinical factors
