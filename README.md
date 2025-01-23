@@ -56,19 +56,19 @@
 - **Predictive Modeling**: Developing machine learning models to identify key survival predictors across genetics, treatment protocols, and clinical factors
 
 
-### [Revenue Prediction & Customer Analytics for Supermarket Data](https://github.com/sowmyamaddali/Revenue-Prediction-Customer-Analytics-for-Supermarket-Data) | (January - May 2024)
+### <a href="https://github.com/sowmyamaddali/Revenue-Prediction-Customer-Analytics-for-Supermarket-Data" target="_blank" rel="noopener noreferrer">Revenue Prediction & Customer Analytics for Supermarket Data</a> | (January - May 2024)
 - **Data Preparation**: Enhanced supermarket dataset integrity through cleaning and processing of five datasets, implementing NLTK for product re-categorization to reduce bias
 - **Model Implementation**: Deployed multiple predictive models including Linear Regression, Random Forest, XGBoost, Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), and ARIMA, with Random Forest emerging as the top performer
 - **Interactive Solution**: Created a customer-facing Streamlit application enabling product price comparisons, displaying historical pricing data, quantity metrics, and ownership information
 
 
-### [Immunization Coverage Analysis](https://public.tableau.com/views/Immunization-Activities/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | (May 2024)
+### <a href="https://public.tableau.com/views/Immunization-Activities/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Immunization Coverage Analysis</a> | (May 2024)
 - **Temporal Analysis**: Tracked measles and rubella vaccination trends across a 24-year period (2000-2024) using interactive Tableau visualizations
 - **Geographic Mapping**: Created comprehensive global coverage maps to identify regional vaccination patterns and disparities
 - **Strategic Insights**: Developed actionable dashboards for public health stakeholders to optimize immunization program implementation
 
 
-### [Analyzing-Macroeconomic-Trends](https://github.com/sowmyamaddali/Analyzing-Macroeconomic-Trends) | (August - December 2023)
+### <a href="https://github.com/sowmyamaddali/Analyzing-Macroeconomic-Trends" target="_blank" rel="noopener noreferrer">Analyzing-Macroeconomic-Trends</a> | (August - December 2023)
 - **Data Integration**: Analyzed four critical economic indicators including Consumer Price Index (CPIAUCSL) and Producer Price Index (PPIACO) to evaluate contemporary economic dynamics
 - **Sector-Specific Analysis**: Examined specialized indices including PPI for Finished Consumer Foods (WPSFD4111) and PPI for Finished Goods (WPSFD49207) to understand sector-specific price fluctuations
 - **Economic Impact Assessment**: Conducted comprehensive evaluation of price changes across urban consumer markets and domestic producer sectors to reveal economic trends and market dynamics
