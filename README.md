@@ -1,3 +1,6 @@
+## 💡 About Me
+I am a data scientist with a passion for leveraging machine learning and data analytics to solve complex problems and drive business decisions. Outside of work, I enjoy playing games, reading books, and creative writing. These hobbies not only fuel my curiosity and problem-solving mindset but also inspire me to think creatively and explore new perspectives in both life and work.
+
 ## 🎯 What I Do
 **Data Scientist specializing in**:
 - Building scalable ML solutions with Python and PySpark
