@@ -29,23 +29,24 @@
 
 ## 💼 Professional Experience
 ### Data Scientist | Fannie Mae (August 2024 - Present)
-- Transformed Python codebase to PySpark for optimized operations
-- Collaborated on V2 platform migration by creating comprehensive technical documentation and providing user support to facilitate smooth transitions
+- Currently working on transformation of a Python codebase into PySpark, enabling optimized processing of large-scale datasets and significantly reducing operational costs.
+- Played a key role in the V2 platform migration by creating detailed technical documentation, troubleshooting implementation challenges, and providing hands-on user support to ensure seamless adoption across teams.
+
 
 ### Operations Intern | Madison Energy Infrastructure (June - August 2023)
--  Developed AWS Lambda functions for automated data processing
--  Enhanced data security through backup systems
--  Optimized billing application with stakeholder access controls
+-  Designed and implemented AWS Lambda functions to automate complex data processing workflows, reducing manual intervention and improving efficiency.
+- Strengthened organizational data security by architecting robust backup systems, mitigating risks of data loss or breaches.
+- Enhanced billing application functionality by developing advanced stakeholder access controls, streamlining user interactions and safeguarding sensitive information.
 
 ### Impact AI Intern | Syntegral (February - April 2023)
-- Built comprehensive financial metrics dataset
-- Integrated data into knowledge graph for enhanced decision-making
-- Delivered valuable insights through data analysis
+- Constructed a comprehensive financial metrics dataset, integrating complex and varied data sources to support advanced analytics.
+- Seamlessly integrated financial datasets into a knowledge graph, improving data accessibility and enabling smarter decision-making processes for the team.
+- Provided actionable business insights through in-depth data analysis, facilitating data-driven strategies for internal and client-facing operations.
 
 ### Machine Learning Intern | Qualcomm (May - August 2021)
-- Developed classification model for timing reports
-- Achieved 10-hour efficiency improvement
-- Implemented systematic data cleaning processes
+- Engineered a classification model for timing reports, delivering a 10-hour reduction in processing time, enabling faster delivery cycles.
+- Devised and executed systematic data-cleaning pipelines, ensuring the accuracy and reliability of high-volume datasets for machine learning projects.
+- Contributed to the development of innovative solutions for automating manual tasks, boosting productivity across the team.
 
 
 ## 🚀 Featured Projects
@@ -73,7 +74,7 @@
 - **Economic Impact Assessment**: Conducted comprehensive evaluation of price changes across urban consumer markets and domestic producer sectors to reveal economic trends and market dynamics
 
 
-## 🤝 Volunteer Experience
+<!--## 🤝 Volunteer Experience
 
 #### Access Services Assistant | George Washington University
 _Washington, D.C | August 2023 - May 2024_
@@ -87,5 +88,13 @@ Annual Meeting
 
 #### Economic Development Volunteer | International Monetary Fund
 _Washington, D.C | April 2023_
-Spring Meeting
+Spring Meeting -->
 
+
+## 🌟 Skills and Leadership Activities
+- **Customer Service and Organization**: As an Access Services Assistant at George Washington University's library, assisted patrons in locating and borrowing books, cataloged and shelved materials, and ensured seamless library operations, honing problem-solving and organizational skills.
+- **Event Coordination and Communication**: Volunteered at high-profile events such as the IMF Annual and Spring Meetings and the World Bank Group's Development Data Partnership Day:
+  1. Coordinated logistics, including distributing name tags, seating guests, and assisting attendees in navigating the venue.
+  2. Demonstrated strong interpersonal skills by engaging with diverse professionals and managing multiple tasks in dynamic environments.
+  3. Gained exposure to global policy discussions and event operations.
+- **Creative Writing and Public Engagement**: Contributed as a writer for the **GW Desis Community**, crafting speeches, designing posters, and creating promotional materials for events over two years. Developed impactful communication skills and fostered a sense of community through storytelling and creativity.
