@@ -96,7 +96,7 @@ Spring Meeting -->
 
 ## 🌟 Skills and Leadership Activities
 - **Customer Service and Organization**: As an Access Services Assistant at George Washington University's library, assisted patrons in locating and borrowing books, cataloged and shelved materials, and ensured seamless library operations, honing problem-solving and organizational skills.
-- **Event Coordination and Communication**: Volunteered at high-profile events such as the IMF Annual and Spring Meetings and the World Bank Group's Development Data Partnership Day:
+- **Event Coordination and Communication**: Volunteered at high-profile events such as the **IMF Annual and Spring Meetings** and the **World Bank Group's Development Data Partnership Day**:
   1. Coordinated logistics, including distributing name tags, seating guests, and assisting attendees in navigating the venue.
   2. Demonstrated strong interpersonal skills by engaging with diverse professionals and managing multiple tasks in dynamic environments.
   3. Gained exposure to global policy discussions and event operations.
