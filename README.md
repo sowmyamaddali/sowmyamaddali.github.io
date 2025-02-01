@@ -53,7 +53,7 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 
 
 ## 🚀 Featured Projects
-### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer METABRIC: Survival Analysis & Predictive Modeling</a> | (Current)
+### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer METABRIC: Survival Analysis & Predictive Modeling</a> | (January 2025 - Present)
 - **Exploratory & Clinical Analysis**: Investigated survival trends by analyzing the relationship between tumor size, tumor stage, and overall survival, identifying a moderate correlation (0.395) between tumor size and stage.
 - **Cluster-Based Survival Insights**: Identified distinct patient groups where Relapse Free Status ≈ Overall Survival, suggesting cases with effective treatment response or rapid disease progression.
 - **Outlier & Stage-Specific Analysis**: Examined patients with exceptionally large tumors (size > 80) and found key differences in survival outcomes based on lymph node involvement and tumor stage.
