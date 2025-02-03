@@ -53,7 +53,7 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 
 
 ## 🚀 Featured Projects
-### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer Survival Prediction & Patient Clustering</a> | (January 2025 - Present)
+### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer Survival Prediction & Patient Clustering</a> | (January - February 2025)
 - **Predictive Modeling for Survival**: Developed machine learning (Random Forest, XGBoost) and deep learning (Neural Networks) models to predict patient survival, achieving 74% accuracy and identifying key risk factors.
 - **Cluster-Based Survival Insights**: Applied K-Means clustering to uncover hidden patient subgroups, revealing patterns in treatment response, relapse risk, and disease progression.
 - **Stage-Specific & Metastasis Trends**: Analyzed tumor size, lymph node involvement, and survival distributions, showing that Stage 4 tumors tend to be smaller than Stage 3, likely due to metastasis-driven spread.
