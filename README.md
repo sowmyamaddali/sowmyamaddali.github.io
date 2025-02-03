@@ -53,11 +53,10 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 
 
 ## 🚀 Featured Projects
-### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer METABRIC: Survival Analysis & Predictive Modeling</a> | (January 2025 - Present)
-- **Exploratory & Clinical Analysis**: Investigated survival trends by analyzing the relationship between tumor size, tumor stage, and overall survival, identifying a moderate correlation (0.395) between tumor size and stage.
-- **Cluster-Based Survival Insights**: Identified distinct patient groups where Relapse Free Status ≈ Overall Survival, suggesting cases with effective treatment response or rapid disease progression.
-- **Outlier & Stage-Specific Analysis**: Examined patients with exceptionally large tumors (size > 80) and found key differences in survival outcomes based on lymph node involvement and tumor stage.
-- **Survival Distributions Across Stages**: Compared Stage 3 vs. Stage 4 survival trends, revealing that Stage 4 tumors are often smaller than Stage 3, likely due to metastasis-driven progression rather than localized tumor growth.
+### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer Survival Prediction & Patient Clustering</a> | (January 2025 - Present)
+- **Predictive Modeling for Survival**: Developed machine learning (Random Forest, XGBoost) and deep learning (Neural Networks) models to predict patient survival, achieving 74% accuracy and identifying key risk factors.
+- **Cluster-Based Survival Insights**: Applied K-Means clustering to uncover hidden patient subgroups, revealing patterns in treatment response, relapse risk, and disease progression.
+- **Stage-Specific & Metastasis Trends**: Analyzed tumor size, lymph node involvement, and survival distributions, showing that Stage 4 tumors tend to be smaller than Stage 3, likely due to metastasis-driven spread.
 
 
 ### <a href="https://github.com/sowmyamaddali/Revenue-Prediction-Customer-Analytics-for-Supermarket-Data" target="_blank" rel="noopener noreferrer">Revenue Prediction & Customer Analytics for Supermarket Data</a> | (January - May 2024)
