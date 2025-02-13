@@ -43,19 +43,22 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 - Conducting performance testing on SageMaker custom images (CPU & GPU) across JupyterLab, Code Editor, and RStudio, ensuring compatibility and efficiency in large-scale data science and ML workflows.
 
 
-### Madison Energy Infrastructure | Operations Intern (June - August 2023)
+### Madison Energy Infrastructure, Virginia, USA
+#### Operations Intern | June - August 2023
 - Revamped the company’s billing application in Microsoft Power Apps, reducing page load times from minutes to seconds, increasing processing speed by 80%, and enhancing user experience for stakeholders.
 - Integrated a security access layer within Power Apps, ensuring clients could only view their own purchased services, preventing 100% of unauthorized data exposure incidents.
 - Engineered an automated data pipeline using AWS Lambda, enabling seamless monthly data extraction, cleaning, and structured storage into Excel reports, reducing manual effort.
 - Implemented a daily backup and disaster recovery system, automating data backups and restoration, ensuring 99.9% data availability and eliminating the risk of data loss.
 
-### Syntegral | Impact AI Intern (February - April 2023)
+### Syntegral, New York, USA
+#### Impact AI Intern | February - April 2023
 - Curated and cleaned financial datasets from publicly available reports, ensuring structured, high-quality data for investment analysis models.
 - Extracted key financial metrics from corporate disclosures and regulatory filings, standardizing them for use in predictive modeling.
 - Developed a knowledge graph-based investment model, refining data relationships and improving prediction accuracy for investment decisions.
 - Researched and mitigated model hallucinations, investigating their causes and implementing data validation techniques to enhance model reliability.
 
-### Qualcomm | Machine Learning Intern (May - August 2021)
+### Qualcomm, Karnataka, India
+#### Machine Learning Intern | May - August 2021
 - Automated the cleaning of daily timing reports by developing a preprocessing pipeline, enabling seamless data extraction and structured dataset creation.
 - Developed and deployed an LSTM-based classification model, reducing manual processing time by 10 man-hours per week through efficient categorization of extracted data.
 - Implemented continuous model retraining, ensuring the LSTM model remained adaptive to evolving datasets, preventing model drift and maintaining high classification accuracy.
