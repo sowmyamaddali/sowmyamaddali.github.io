@@ -34,7 +34,8 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 
 
 ## 💼 Professional Experience
-### Fannie Mae | Data Scientist (August 2024 - Present)
+### Fannie Mae, Virginia, USA
+#### Data Scientist | August 2024 - Present
 - Led the transformation of a Python codebase into PySpark, optimizing large-scale data processing, reducing execution time by 5x, and cutting operational costs by 40%.
 - Drove the AWS SageMaker V2 platform migration, developing comprehensive technical documentation, troubleshooting implementation challenges, and providing hands-on support, ensuring a 100% successful transition across teams.
 - Tested and validated the acceptance environment for data science workloads, ensuring seamless integration between Amazon S3, Redshift, and SageMaker Studio. Conducted comprehensive package testing and evaluated runtime performance in JupyterLab, Code Editor, and RStudio.
