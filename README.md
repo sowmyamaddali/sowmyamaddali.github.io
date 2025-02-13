@@ -23,11 +23,14 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 
 
 ## 💻 Technical Skills
-- **Programming**: Python, R
-- **Data Processing & Database Technologies**: Apache Spark, SQL, PostgreSQL, MongoDB
-- **Data Analysis & Visualization Tools**: Microsoft Excel, Tableau
-- **Machine Learning & Statistical Analysis Tools**: Scikit-learn, TensorFlow, Keras, RStudio, Jupyter Notebook
-- **Cloud Platform & Version Control**: AWS, Git
+- **Programming Languages**: Python, R, SQL
+- **Big Data * Data Engineering**: Apache Spark, PySpark, ETL
+- **Databases & Data Processing**: PostgreSQL, MySQL, MongoDB
+- **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, NLP, Computer Vision
+- **Statistical & Time Series Analysis**: RStudio, Statsmodels, Vector Autoregression (VAR)
+- **Data Visualization & Analytics**: Tableau, Power BI, Matplotlib, Seaborn, Microsoft Excel
+- **Cloud & DevOps**: AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR)
+- **Version Control & Development Tools**: Git, GitHub, Jupyter Notebook
 
 
 ## 💼 Professional Experience
