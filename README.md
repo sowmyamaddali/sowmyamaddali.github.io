@@ -24,7 +24,7 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 
 ## 💻 Technical Skills
 - **Programming Languages**: Python, R, SQL
-- **Big Data * Data Engineering**: Apache Spark, PySpark, ETL
+- **Big Data & Data Engineering**: Apache Spark, PySpark, ETL
 - **Databases & Data Processing**: PostgreSQL, MySQL, MongoDB
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, NLP, Computer Vision
 - **Statistical & Time Series Analysis**: RStudio, Statsmodels, Vector Autoregression (VAR)
@@ -34,25 +34,30 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 
 
 ## 💼 Professional Experience
-### Data Scientist | Fannie Mae (August 2024 - Present)
-- Currently working on transformation of a Python codebase into PySpark, enabling optimized processing of large-scale datasets and significantly reducing operational costs.
-- Played a key role in the V2 platform migration by creating detailed technical documentation, troubleshooting implementation challenges, and providing hands-on user support to ensure seamless adoption across teams.
+### Fannie Mae | Data Scientist (August 2024 - Present)
+- Led the transformation of a Python codebase into PySpark, optimizing large-scale data processing, reducing execution time by 5x, and cutting operational costs by 40%.
+- Drove the AWS SageMaker V2 platform migration, developing comprehensive technical documentation, troubleshooting implementation challenges, and providing hands-on support, ensuring a 100% successful transition across teams.
+- Tested and validated the acceptance environment for data science workloads, ensuring seamless integration between Amazon S3, Redshift, and SageMaker Studio. Conducted comprehensive package testing and evaluated runtime performance in JupyterLab, Code Editor, and RStudio.
+- Provisioned Infrastructure Change Requests (ICRs) using consumer contracts, enabling the transition of a project into an asset status, supporting long-term model deployment and data infrastructure stability.
+- Conducting performance testing on SageMaker custom images (CPU & GPU) across JupyterLab, Code Editor, and RStudio, ensuring compatibility and efficiency in large-scale data science and ML workflows.
 
 
-### Operations Intern | Madison Energy Infrastructure (June - August 2023)
--  Designed and implemented AWS Lambda functions to automate complex data processing workflows, reducing manual intervention and improving efficiency.
-- Strengthened organizational data security by architecting robust backup systems, mitigating risks of data loss or breaches.
-- Enhanced billing application functionality by developing advanced stakeholder access controls, streamlining user interactions and safeguarding sensitive information.
+### Madison Energy Infrastructure | Operations Intern (June - August 2023)
+- Revamped the company’s billing application in Microsoft Power Apps, reducing page load times from minutes to seconds, increasing processing speed by 80%, and enhancing user experience for stakeholders.
+- Integrated a security access layer within Power Apps, ensuring clients could only view their own purchased services, preventing 100% of unauthorized data exposure incidents.
+- Engineered an automated data pipeline using AWS Lambda, enabling seamless monthly data extraction, cleaning, and structured storage into Excel reports, reducing manual effort.
+- Implemented a daily backup and disaster recovery system, automating data backups and restoration, ensuring 99.9% data availability and eliminating the risk of data loss.
 
-### Impact AI Intern | Syntegral (February - April 2023)
-- Constructed a comprehensive financial metrics dataset, integrating complex and varied data sources to support advanced analytics.
-- Seamlessly integrated financial datasets into a knowledge graph, improving data accessibility and enabling smarter decision-making processes for the team.
-- Provided actionable business insights through in-depth data analysis, facilitating data-driven strategies for internal and client-facing operations.
+### Syntegral | Impact AI Intern (February - April 2023)
+- Curated and cleaned financial datasets from publicly available reports, ensuring structured, high-quality data for investment analysis models.
+- Extracted key financial metrics from corporate disclosures and regulatory filings, standardizing them for use in predictive modeling.
+- Developed a knowledge graph-based investment model, refining data relationships and improving prediction accuracy for investment decisions.
+- Researched and mitigated model hallucinations, investigating their causes and implementing data validation techniques to enhance model reliability.
 
-### Machine Learning Intern | Qualcomm (May - August 2021)
-- Engineered a classification model for timing reports, delivering a 10-hour reduction in processing time, enabling faster delivery cycles.
-- Devised and executed systematic data-cleaning pipelines, ensuring the accuracy and reliability of high-volume datasets for machine learning projects.
-- Contributed to the development of innovative solutions for automating manual tasks, boosting productivity across the team.
+### Qualcomm | Machine Learning Intern (May - August 2021)
+- Automated the cleaning of daily timing reports by developing a preprocessing pipeline, enabling seamless data extraction and structured dataset creation.
+- Developed and deployed an LSTM-based classification model, reducing manual processing time by 10 man-hours per week through efficient categorization of extracted data.
+- Implemented continuous model retraining, ensuring the LSTM model remained adaptive to evolving datasets, preventing model drift and maintaining high classification accuracy.
 
 
 ## 🚀 Featured Projects
