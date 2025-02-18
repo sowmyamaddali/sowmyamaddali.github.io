@@ -65,10 +65,10 @@ I am a Data Scientist with a passion for leveraging machine learning and data an
 
 
 ## 🚀 Featured Projects
-### <a href="https://github.com/sowmyamaddali/Medical-Text-Classification" target="_blank" rel="noopener noreferrer">Medical Text Classification</a> | (February 2025 - Present)
+<!--### <a href="https://github.com/sowmyamaddali/Medical-Text-Classification" target="_blank" rel="noopener noreferrer">Medical Text Classification</a> | (February 2025 - Present)
 - **Developing an NLP pipeline for medical text classification**: Building a pipeline that processes and cleans research abstracts, applies TF-IDF vectorization, and clusters similar abstracts using K-Means, DBSCAN, and Hierarchical Clustering techniques.
 - **Exploring dimensionality reduction & feature engineering**: Implementing PCA and t-SNE for high-dimensional visualization and experimenting with TF-IDF and Word2Vec embeddings to improve feature representation for clustering.
-- **Evaluating clustering performance for meaningful insights**: Analyzing clustering quality using the Silhouette Score and adjusting hyperparameters to refine topic-based grouping of medical research abstracts.
+- **Evaluating clustering performance for meaningful insights**: Analyzing clustering quality using the Silhouette Score and adjusting hyperparameters to refine topic-based grouping of medical research abstracts.-->
 
 
 ### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer Survival Prediction & Patient Clustering</a> | (January - February 2025)
