@@ -1,13 +1,14 @@
-## 💡 About Me
-I am a Data Scientist with a passion for leveraging machine learning and data analytics to solve complex problems and drive business decisions. Outside of work, I enjoy playing games, reading books, and creative writing. These hobbies not only fuel my curiosity and problem-solving mindset but also inspire me to think creatively and explore new perspectives in both life and work.
+## About Me
+I am a **Data Scientist** specializing in developing **scalable machine learning solutions**, optimizing **data pipelines**, and leveraging **AI** to drive impactful business decisions. My expertise spans across **Python, PySpark, and cloud computing**, particularly within **AWS environments.**
 
-## 🎯 What I Do
-<!--**Data Scientist specializing in**: -->
-- Building scalable ML solutions with Python and PySpark
-- Implementing end-to-end machine learning pipelines
-- Conducting advanced statistical analysis and forecasting
-- Creating interactive data visualizations and dashboards with Tableau
-- Optimizing business operations through data-driven insights 
+Beyond work, I enjoy **gaming, reading, and creative writing**—activities that enhance my **problem-solving mindset** and inspire **innovative thinking** in both life and work.
+
+## What I Do
+- **Design and implement scalable machine learning solutions** in Python and PySpark to handle **large-scale datasets** efficiently.
+- **Build and optimize end-to-end machine learning pipelines**, ensuring smooth **data processing** from ingestion to model deployment.
+- **Conduct advanced statistical analysis and forecasting** to provide **data-driven insights** that inform **business strategy** and **operational improvements.**
+- **Develop interactive data visualizations** using **Tableau and Power BI** to present complex data in an **intuitive and accessible format.**
+- **Enhance DevOps workflows** by **automating model development and deployment processes**, ensuring **reproducibility and efficiency** in production environments.
 
 
 ## 🎓 Education
