@@ -14,26 +14,25 @@ Beyond work, I enjoy **gaming, reading, and creative writing**—activities that
 ## Education
 ### The George Washington University
 **M.S. Data Science** _(GPA: 3.97/4.0)_
-Graduated: May 2024 | Washington, DC
+######## Graduated: May 2024 | Washington, DC, USA
 
 ### Visvesvaraya Technological University
 **B.E. Computer Science & Engineering** _(GPA: 8.1/10.0)_
-- Graduated: July 2021
-- India
+- Graduated: July 2021 | Bangalore, India
 
 
-## 💻 Technical Skills
+## Technical Skills
 - **Programming Languages**: Python, R, SQL
 - **Big Data & Data Engineering**: Apache Spark, PySpark, ETL
 - **Databases & Data Processing**: PostgreSQL, MySQL, MongoDB
 - **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, NLP, Computer Vision
 - **Statistical & Time Series Analysis**: RStudio, Statsmodels, Vector Autoregression (VAR)
 - **Data Visualization & Analytics**: Tableau, Power BI, Matplotlib, Seaborn, Microsoft Excel
-- **Cloud & DevOps**: AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR)
+- **Cloud & DevOps**: AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR, Pipelines)
 - **Version Control & Development Tools**: Git, GitHub, Jupyter Notebook
 
 
-## 💼 Professional Experience
+## Professional Experience
 ### Fannie Mae, Virginia, USA
 #### Data Scientist | August 2024 - Present
 - Led the transformation of a Python codebase into PySpark, optimizing large-scale data processing, reducing execution time by 5x, and cutting operational costs by 40%.
