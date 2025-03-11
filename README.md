@@ -11,11 +11,10 @@ Beyond work, I enjoy **gaming, reading, and creative writing**—activities that
 - **Enhance DevOps workflows** by **automating model development and deployment processes**, ensuring **reproducibility and efficiency** in production environments.
 
 
-## 🎓 Education
+## Education
 ### The George Washington University
 **M.S. Data Science** _(GPA: 3.97/4.0)_
-- Graduated: May 2024
-- Washington, DC
+Graduated: May 2024 | Washington, DC
 
 ### Visvesvaraya Technological University
 **B.E. Computer Science & Engineering** _(GPA: 8.1/10.0)_
