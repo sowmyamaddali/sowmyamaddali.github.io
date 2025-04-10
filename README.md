@@ -5,15 +5,15 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
 
 
 
-## What I Do
+<!-- ## What I Do
 - **Design and implement scalable machine learning solutions** in Python and PySpark to handle **large-scale datasets** efficiently.
 - **Build and optimize end-to-end machine learning pipelines**, ensuring smooth **data processing** from ingestion to model deployment.
 - **Conduct advanced statistical analysis and forecasting** to provide **data-driven insights** that inform **business strategy** and **operational improvements.**
 - **Develop interactive data visualizations** using **Tableau and Power BI** to present complex data in an **intuitive and accessible format.**
-- **Enhance DevOps workflows** by **automating model development and deployment processes**, ensuring **reproducibility and efficiency** in production environments.
+- **Enhance DevOps workflows** by **automating model development and deployment processes**, ensuring **reproducibility and efficiency** in production environments. -->
 
 
-## Education
+<!--## Education
 ### The George Washington University
 **M.S. Data Science** _(GPA: 3.97/4.0)_
 ###### Graduated: May 2024 | Washington, DC, USA
@@ -21,7 +21,26 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
 
 ### Visvesvaraya Technological University
 **B.E. Computer Science & Engineering** _(GPA: 8.1/10.0)_
-###### Graduated: July 2021 | Bangalore, India
+###### Graduated: July 2021 | Bangalore, India -->
+
+## Education
+<table style="width:100%; text-align:left; line-height: 1.6;">
+  <tr>
+    <th style="width:30%"><strong>Degree</strong></th>
+    <th style="width:40%"><strong>Institution</strong></th>
+    <th style="width:30%"><strong>Details</strong></th>
+  </tr>
+  <tr>
+    <td>M.S. Data Science</td>
+    <td>The George Washington University</td>
+    <td>GPA: 3.97/4.0<br>Graduated: May 2024<br>Washington, DC, USA</td>
+  </tr>
+  <tr>
+    <td>B.E. Computer Science & Engineering</td>
+    <td>Visvesvaraya Technological University</td>
+    <td>GPA: 8.1/10.0<br>Graduated: July 2021<br>Bangalore, India</td>
+  </tr>
+</table>
 
 
 ## Technical Skills
