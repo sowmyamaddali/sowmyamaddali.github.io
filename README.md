@@ -29,8 +29,8 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
     <thead>
       <tr style="background-color: #333; color: #fff;">
         <th style="padding: 10px; border: 1px solid #ccc;"><center>Degree</center></th>
-        <th style="padding: 10px; border: 1px solid #ccc;">Institution</th>
-        <th style="padding: 10px; border: 1px solid #ccc;">Details</th>
+        <th style="padding: 10px; border: 1px solid #ccc;"><center>Institution</center></th>
+        <th style="padding: 10px; border: 1px solid #ccc;"><center>Details</center></th>
       </tr>
     </thead>
     <tbody>
