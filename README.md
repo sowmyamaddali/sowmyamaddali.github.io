@@ -28,7 +28,7 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
   <table style="border-collapse: collapse; width: 90%; text-align: left; font-size: 16px;">
     <thead>
       <tr style="background-color: #333; color: #fff;">
-        <th style="padding: 10px; border: 1px solid #ccc;">Degree</th>
+        <th style="padding: 10px; border: 1px solid #ccc;"><center>Degree</center></th>
         <th style="padding: 10px; border: 1px solid #ccc;">Institution</th>
         <th style="padding: 10px; border: 1px solid #ccc;">Details</th>
       </tr>
