@@ -24,23 +24,41 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
 ###### Graduated: July 2021 | Bangalore, India -->
 
 ## Education
-<table style="width:100%; text-align:left; line-height: 1.6;">
-  <tr>
-    <th style="width:30%"><strong>Degree</strong></th>
-    <th style="width:40%"><strong>Institution</strong></th>
-    <th style="width:30%"><strong>Details</strong></th>
-  </tr>
-  <tr>
-    <td>M.S. Data Science</td>
-    <td>The George Washington University<br>Washington, DC, USA</td>
-    <td><strong>GPA: 3.97/4.0</strong><br>Graduated: May 2024</td>
-  </tr>
-  <tr>
-    <td>B.E. Computer Science & Engineering</td>
-    <td>Visvesvaraya Technological University<br>Bangalore, India</td>
-    <td><strong>GPA: 8.1/10.0</strong><br>Graduated: July 2021</td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <table style="border-collapse: collapse; width: 90%; text-align: left; font-size: 16px;">
+    <thead>
+      <tr style="background-color: #333; color: #fff;">
+        <th style="padding: 10px; border: 1px solid #ccc;">Degree</th>
+        <th style="padding: 10px; border: 1px solid #ccc;">Institution</th>
+        <th style="padding: 10px; border: 1px solid #ccc;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ccc;">M.S. Data Science</td>
+        <td style="padding: 10px; border: 1px solid #ccc;">
+          The George Washington University<br>
+          Washington, DC, USA
+        </td>
+        <td style="padding: 10px; border: 1px solid #ccc;">
+          <strong>GPA: 3.97/4.0</strong><br>
+          Graduated: May 2024
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #ccc;">B.E. Computer Science & Engineering</td>
+        <td style="padding: 10px; border: 1px solid #ccc;">
+          Visvesvaraya Technological University<br>
+          Bangalore, India
+        </td>
+        <td style="padding: 10px; border: 1px solid #ccc;">
+          <strong>GPA: 8.1/10.0</strong><br>
+          Graduated: July 2021
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 ## Technical Skills
