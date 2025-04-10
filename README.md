@@ -1,5 +1,5 @@
 ## About Me
-<div style="text-align: justify;">
+<div style="text-align: justify; text-justify: inter-word; max-width: 100%; line-height: 1.6;">
 I am a **Data Scientist** specializing in developing **scalable machine learning solutions**, optimizing **data pipelines**, and leveraging **AI** to drive impactful business decisions. My expertise spans across **Python, PySpark, and cloud computing**, particularly within **AWS environments.**
 
 Beyond work, I enjoy **gaming, reading, and creative writing**—activities that enhance my **problem-solving mindset** and inspire **innovative thinking** in both life and work.
