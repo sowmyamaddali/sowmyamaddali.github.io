@@ -32,13 +32,13 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
   </tr>
   <tr>
     <td>M.S. Data Science</td>
-    <td>The George Washington University</td>
-    <td>GPA: 3.97/4.0<br>Graduated: May 2024<br>Washington, DC, USA</td>
+    <td>The George Washington University<br>Washington, DC, USA</td>
+    <td><strong>GPA: 3.97/4.0</strong><br>Graduated: May 2024</td>
   </tr>
   <tr>
     <td>B.E. Computer Science & Engineering</td>
-    <td>Visvesvaraya Technological University</td>
-    <td>GPA: 8.1/10.0<br>Graduated: July 2021<br>Bangalore, India</td>
+    <td>Visvesvaraya Technological University<br>Bangalore, India</td>
+    <td><strong>GPA: 8.1/10.0</strong><br>Graduated: July 2021</td>
   </tr>
 </table>
 
