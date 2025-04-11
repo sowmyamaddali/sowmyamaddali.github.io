@@ -88,9 +88,9 @@ Git, GitHub, Jupyter Notebook
 
 ## Professional Experience
 <div style="text-align: justify; text-justify: inter-word; line-height: 1.6;">
-<strong>Fannie Mae</strong>, Washington, DC  
-<em>Data Scientist | Enterprise Modeling and Analytics</em>  
-<em>August 2024 – March 2025</em>
+<strong>Fannie Mae</strong>  
+<em>Data Scientist – Enterprise Modeling and Analytics</em>  
+<em>Washington, DC | August 2024 – March 2025</em>
 <ul>
   <li>Migrated a mortgage pipeline from Python to <strong>PySpark</strong>, reducing execution time by <strong>40%</strong> and enabling scalable, distributed processing in production.</li>
   <li>Built a break-even analysis model for <strong>Amazon EFS</strong> lifecycle transitions, leading to <strong>15%</strong> lower storage costs and <strong>20%</strong> improved performance.</li>
