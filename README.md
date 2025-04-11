@@ -4,25 +4,6 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
 </div>
 
 
-
-<!-- ## What I Do
-- **Design and implement scalable machine learning solutions** in Python and PySpark to handle **large-scale datasets** efficiently.
-- **Build and optimize end-to-end machine learning pipelines**, ensuring smooth **data processing** from ingestion to model deployment.
-- **Conduct advanced statistical analysis and forecasting** to provide **data-driven insights** that inform **business strategy** and **operational improvements.**
-- **Develop interactive data visualizations** using **Tableau and Power BI** to present complex data in an **intuitive and accessible format.**
-- **Enhance DevOps workflows** by **automating model development and deployment processes**, ensuring **reproducibility and efficiency** in production environments. -->
-
-
-<!--## Education
-### The George Washington University
-**M.S. Data Science** _(GPA: 3.97/4.0)_
-###### Graduated: May 2024 | Washington, DC, USA
-
-
-### Visvesvaraya Technological University
-**B.E. Computer Science & Engineering** _(GPA: 8.1/10.0)_
-###### Graduated: July 2021 | Bangalore, India -->
-
 ## Education
 <div style="display: flex; justify-content: center;">
   <table style="border-collapse: collapse; width: 90%; text-align: left; font-size: 16px;">
@@ -61,7 +42,7 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
 </div>
 
 
-## Technical Skills
+<!--## Technical Skills
 - **Programming Languages**: Python, R, SQL
 - **Big Data & Data Engineering**: Apache Spark, PySpark, ETL
 - **Databases & Data Processing**: PostgreSQL, MySQL, MongoDB
@@ -69,7 +50,55 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
 - **Statistical & Time Series Analysis**: RStudio, Statsmodels, Vector Autoregression (VAR)
 - **Data Visualization & Analytics**: Tableau, Power BI, Matplotlib, Seaborn, Microsoft Excel
 - **Cloud & DevOps**: AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR, Pipelines)
-- **Version Control & Development Tools**: Git, GitHub, Jupyter Notebook
+- **Version Control & Development Tools**: Git, GitHub, Jupyter Notebook -->
+
+
+## Technical Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; font-size: 16px;">
+
+<div style="flex: 1; min-width: 300px;">
+<strong>Programming Languages</strong><br>
+Python, R, SQL
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<strong>Big Data & Data Engineering</strong><br>
+Apache Spark, PySpark, ETL
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<strong>Databases & Data Processing</strong><br>
+PostgreSQL, MySQL, MongoDB
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<strong>Machine Learning & AI</strong><br>
+Scikit-learn, TensorFlow, Keras, NLP, Computer Vision
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<strong>Statistical & Time Series Analysis</strong><br>
+RStudio, Statsmodels, Vector Autoregression (VAR)
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<strong>Data Visualization & Analytics</strong><br>
+Tableau, Power BI, Matplotlib, Seaborn, Microsoft Excel
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<strong>Cloud & DevOps</strong><br>
+AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR, Pipelines)
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+<strong>Version Control & Tools</strong><br>
+Git, GitHub, Jupyter Notebook
+</div>
+
+</div>
+
 
 
 ## Professional Experience
