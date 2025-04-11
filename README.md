@@ -42,21 +42,8 @@ I’m a <strong>Data Scientist</strong> with a passion for transforming complex 
 </div>
 
 
-<!--## Technical Skills
-- **Programming Languages**: Python, R, SQL
-- **Big Data & Data Engineering**: Apache Spark, PySpark, ETL
-- **Databases & Data Processing**: PostgreSQL, MySQL, MongoDB
-- **Machine Learning & AI**: Scikit-learn, TensorFlow, Keras, NLP, Computer Vision
-- **Statistical & Time Series Analysis**: RStudio, Statsmodels, Vector Autoregression (VAR)
-- **Data Visualization & Analytics**: Tableau, Power BI, Matplotlib, Seaborn, Microsoft Excel
-- **Cloud & DevOps**: AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR, Pipelines)
-- **Version Control & Development Tools**: Git, GitHub, Jupyter Notebook -->
-
-
 ## Technical Skills
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between; font-size: 16px;">
-
 <div style="flex: 1; min-width: 300px;">
 <strong>Programming Languages</strong><br>
 Python, R, SQL
@@ -89,27 +76,32 @@ Tableau, Power BI, Matplotlib, Seaborn, Microsoft Excel
 
 <div style="flex: 1; min-width: 300px;">
 <strong>Cloud & DevOps</strong><br>
-AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR, Pipelines)
+AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR, Pipelines, CloudWatch, CloudTrails)
 </div>
 
 <div style="flex: 1; min-width: 300px;">
 <strong>Version Control & Tools</strong><br>
 Git, GitHub, Jupyter Notebook
 </div>
-
 </div>
 
 
-
 ## Professional Experience
-### Fannie Mae, Virginia, USA
-#### Data Scientist | Enterprise Modeling and Analytics | August 2024 - Present
-- **Conducting extensive analysis on EFS Lifecycle Management**, determining **optimal storage class transitions** for large-scale datasets using **CloudTrail monitoring** to track file access and activity.
-- **Developing, modifying, and optimizing AWS Pipelines** using APIs to streamline **model development workflows in a DevOps environment**, ensuring **efficient automation and reproducibility** in **machine learning model deployment.**
-- **Optimized large-scale data processing** by transitioning **Python codebases to PySpark**, reducing execution time by **5x** and significantly lowering **operational costs.**
-- **Assisted AWS SageMaker V2 migration project**, ensuring a **seamless transition** across teams by providing **detailed technical documentation**, troubleshooting **implementation challenges**, and offering **hands-on support.**
-- **Conducted performance testing** on **SageMaker custom images (CPU & GPU)** across **JupyterLab, Code Editor, and RStudio**, ensuring **compatibility and efficiency for machine learning workloads.**
-- **Provisioned Infrastructure Change Requests (ICRs)** using **consumer contracts**, enabling the **transition of a project into an asset status**, supporting **long-term model deployment and data infrastructure stability.**
+<div style="text-align: justify; text-justify: inter-word; line-height: 1.6;">
+<strong>Fannie Mae</strong>, Washington, DC  
+<em>Data Scientist | Enterprise Modeling and Analytics</em>  
+<em>August 2024 – March 2025</em>
+<ul>
+  <li>Migrated a mortgage pipeline from Python to <strong>PySpark</strong>, reducing execution time by <strong>40%</strong> and enabling scalable, distributed processing in production.</li>
+  <li>Built a break-even analysis model for <strong>Amazon EFS</strong> lifecycle transitions, leading to <strong>15%</strong> lower storage costs and <strong>20%</strong> improved performance.</li>
+  <li>Developed interactive dashboards using <strong>Amazon Athena, CloudTrail</strong>, and <strong>QuickSight</strong> to visualize resource utilization and support real-time cloud cost optimization.</li>
+  <li>Integrated <strong>AWS Model Monitoring APIs</strong> into <strong>SageMaker Studio</strong> to automate drift detection and model performance tracking.</li>
+  <li>Streamlined DevOps workflows by modifying <strong>AWS pipelines</strong> for automated model deployment and environment reproducibility.</li>
+  <li>Tested custom <strong>SageMaker images</strong> (CPU/GPU) across <strong>JupyterLab, Code Editor,</strong> and <strong>RStudio</strong> to ensure compatibility and efficiency for production workloads.</li>
+  <li>Created technical documentation and supported the <strong>SageMaker V2 migration</strong> across teams to ensure smooth adoption and deployment readiness.</li>
+  <li>Provisioned <strong>Infrastructure Change Requests (ICRs)</strong> using consumer contracts, enabling projects to transition into long-term deployable assets.</li>
+</ul>
+</div>
 
 
 ### Madison Energy Infrastructure, Virginia, USA
