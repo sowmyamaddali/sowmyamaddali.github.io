@@ -149,11 +149,10 @@ Git, GitHub, Jupyter Notebook, Jira
 
 <br>
 
-## Featured Projects
 <!--### <a href="https://github.com/sowmyamaddali/Medical-Text-Classification" target="_blank" rel="noopener noreferrer">Medical Text Classification</a> | (February 2025 - Present)
 - **Developing an NLP pipeline for medical text classification**: Building a pipeline that processes and cleans research abstracts, applies TF-IDF vectorization, and clusters similar abstracts using K-Means, DBSCAN, and Hierarchical Clustering techniques.
 - **Exploring dimensionality reduction & feature engineering**: Implementing PCA and t-SNE for high-dimensional visualization and experimenting with TF-IDF and Word2Vec embeddings to improve feature representation for clustering.
-- **Evaluating clustering performance for meaningful insights**: Analyzing clustering quality using the Silhouette Score and adjusting hyperparameters to refine topic-based grouping of medical research abstracts.-->
+- **Evaluating clustering performance for meaningful insights**: Analyzing clustering quality using the Silhouette Score and adjusting hyperparameters to refine topic-based grouping of medical research abstracts.
 
 
 ### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer Survival Prediction & Patient Clustering</a> | (January - February 2025)
@@ -176,10 +175,42 @@ Git, GitHub, Jupyter Notebook, Jira
 ### <a href="https://github.com/sowmyamaddali/Analyzing-Macroeconomic-Trends" target="_blank" rel="noopener noreferrer">Analyzing-Macroeconomic-Trends</a> | (August - December 2023)
 - **Multi-Factor Economic Analysis**: Evaluated **four critical economic indicators**, including **Consumer Price Index** and **Producer Price Index**, to assess **economic stability and inflation trends.**
 - **Industry-Specific Market Trends**: Investigated **sectoral fluctuations** by analyzing **PPI for Finished Consumer Foods** and **PPI for Finished Goods**, providing insights into **price volatility in consumer and producer markets.**
-- **Macroeconomic Impact Assessment**: Conducted a **holistic evaluation of urban consumer pricing trends**, linking them to **domestic producer sector performance**, enabling **data-driven economic forecasting.**
+- **Macroeconomic Impact Assessment**: Conducted a **holistic evaluation of urban consumer pricing trends**, linking them to **domestic producer sector performance**, enabling **data-driven economic forecasting.** -->
 
 
-<!--## 🤝 Volunteer Experience
+## Featured Projects
+
+<div style="text-align: justify; text-justify: inter-word; line-height: 1.8;">
+
+<div style="font-size: 17px; font-weight: bold;">
+<a href="https://github.com/sowmyamaddali/telco-customer-churn" target="_blank" rel="noopener noreferrer">
+Customer Churn Prediction
+</a>
+</div>
+<em>April 2025 – Present | Python, Logistic Regression, SMOTE, ROC AUC</em>
+<ul>
+  <li>Built and evaluated multiple linear models including Logistic, Ridge, and Lasso, achieving <strong>95% accuracy</strong> and <strong>0.97 ROC AUC</strong>.</li>
+  <li>Used <strong>SMOTE</strong> for class balancing and <strong>Lasso regression</strong> for feature selection, identifying key churn drivers.</li>
+</ul>
+
+<br>
+
+<div style="font-size: 17px; font-weight: bold;">
+<a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">
+Breast Cancer Survival Prediction & Patient Clustering
+</a>
+</div>
+<em>January – February 2025 | Random Forest, XGBoost, K-Means</em>
+<ul>
+  <li>Built ML and deep learning models to predict patient survival with <strong>74% accuracy</strong>.</li>
+  <li>Applied <strong>K-Means clustering</strong> to identify subgroups and treatment response patterns.</li>
+  <li>Analyzed tumor characteristics and metastasis data for personalized insights.</li>
+</ul>
+
+<br>
+
+
+<!--##  Volunteer Experience
 
 #### Access Services Assistant | George Washington University
 _Washington, D.C | August 2023 - May 2024_
