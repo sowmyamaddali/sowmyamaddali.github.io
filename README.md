@@ -80,28 +80,35 @@ AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR, Pipelines, CloudWatch, CloudTrai
 </div>
 
 <div style="flex: 1; min-width: 300px;">
-<strong>Version Control & Tools</strong><br>
-Git, GitHub, Jupyter Notebook
+<strong>Version Control & Project Management Tools</strong><br>
+Git, GitHub, Jupyter Notebook, Jira
 </div>
 </div>
 
 
 ## Professional Experience
+## Professional Experience
+
 <div style="text-align: justify; text-justify: inter-word; line-height: 1.6;">
+
 <strong>Fannie Mae</strong>  
 <em>Data Scientist – Enterprise Modeling and Analytics</em>  
-<em>Washington, DC | August 2024 – March 2025</em>
+<em>Washington, DC | August 2024 – March 2025</em>  
+<small>(Contract role)</small>
+
 <ul>
-  <li>Migrated a mortgage pipeline from Python to <strong>PySpark</strong>, reducing execution time by <strong>40%</strong> and enabling scalable, distributed processing in production.</li>
-  <li>Built a break-even analysis model for <strong>Amazon EFS</strong> lifecycle transitions, leading to <strong>15%</strong> lower storage costs and <strong>20%</strong> improved performance.</li>
-  <li>Developed interactive dashboards using <strong>Amazon Athena, CloudTrail</strong>, and <strong>QuickSight</strong> to visualize resource utilization and support real-time cloud cost optimization.</li>
-  <li>Integrated <strong>AWS Model Monitoring APIs</strong> into <strong>SageMaker Studio</strong> to automate drift detection and model performance tracking.</li>
-  <li>Streamlined DevOps workflows by modifying <strong>AWS pipelines</strong> for automated model deployment and environment reproducibility.</li>
-  <li>Tested custom <strong>SageMaker images</strong> (CPU/GPU) across <strong>JupyterLab, Code Editor,</strong> and <strong>RStudio</strong> to ensure compatibility and efficiency for production workloads.</li>
-  <li>Created technical documentation and supported the <strong>SageMaker V2 migration</strong> across teams to ensure smooth adoption and deployment readiness.</li>
-  <li>Provisioned <strong>Infrastructure Change Requests (ICRs)</strong> using consumer contracts, enabling projects to transition into long-term deployable assets.</li>
+  <li>Migrated a high-volume mortgage pipeline from Python to <strong>PySpark</strong>, improving processing efficiency by <strong>40%</strong> and enabling scalable deployment in production.</li>
+  <li>Designed a break-even analysis model for <strong>Amazon EFS</strong> lifecycle transitions, adopted across teams and resulting in <strong>15%</strong> cost savings and <strong>20%</strong> better performance.</li>
+  <li>Developed dashboards using <strong>Amazon Athena, CloudTrail logs</strong>, and <strong>QuickSight</strong> to track resource usage and optimize cloud infrastructure decisions.</li>
+  <li>Built automated <strong>model monitoring workflows</strong> using <strong>SageMaker Studio</strong> and AWS APIs to detect drift and track performance in ML deployments.</li>
+  <li>Enhanced <strong>DevOps automation pipelines</strong> and documented model deployment processes to support reproducibility and operational efficiency.</li>
+  <li>Tested custom <strong>SageMaker images</strong> (CPU/GPU) for compatibility across <strong>JupyterLab, RStudio,</strong> and <strong>Code Editor</strong>.</li>
+  <li>Used <strong>Jira</strong> to manage sprint planning, task tracking, and collaboration across cross-functional teams.</li>
+  <li>Supported the <strong>SageMaker V2 migration</strong> by troubleshooting deployment challenges and providing technical documentation.</li>
 </ul>
+
 </div>
+
 
 
 ### Madison Energy Infrastructure, Virginia, USA
