@@ -149,34 +149,6 @@ Git, GitHub, Jupyter Notebook, Jira
 
 <br>
 
-<!--### <a href="https://github.com/sowmyamaddali/Medical-Text-Classification" target="_blank" rel="noopener noreferrer">Medical Text Classification</a> | (February 2025 - Present)
-- **Developing an NLP pipeline for medical text classification**: Building a pipeline that processes and cleans research abstracts, applies TF-IDF vectorization, and clusters similar abstracts using K-Means, DBSCAN, and Hierarchical Clustering techniques.
-- **Exploring dimensionality reduction & feature engineering**: Implementing PCA and t-SNE for high-dimensional visualization and experimenting with TF-IDF and Word2Vec embeddings to improve feature representation for clustering.
-- **Evaluating clustering performance for meaningful insights**: Analyzing clustering quality using the Silhouette Score and adjusting hyperparameters to refine topic-based grouping of medical research abstracts.
-
-
-### <a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">Breast Cancer Survival Prediction & Patient Clustering</a> | (January - February 2025)
-- **Development of Predictive Models**: Implemented **Random Forest, XGBoost, and Neural Networks**, achieving **74% accuracy in predicting patient survival outcomes** based on **clinical and genomic features.**
-- **Patient Subgroup Clustering for Precision Medicine**: Applied **K-Means clustering** to segment patients into **distinct subgroups** based on **disease progression and treatment response**, identifying patterns in **tumor aggressiveness, metastasis risk, and survival probabilities.**
-- **Stage-Specific Survival Analysis**: Conducted an **in-depth statistical analysis of survival trends** across **different cancer stages**, uncovering **critical risk factors** such as **tumor size, lymph node involvement, and metastatic spread**, aiding in **treatment decision-making and prognosis prediction.**
-
-### <a href="https://github.com/sowmyamaddali/Revenue-Prediction-Customer-Analytics-for-Supermarket-Data" target="_blank" rel="noopener noreferrer">Revenue Prediction & Customer Analytics for Supermarket Data</a> | (January - May 2024)
-- **Comprehensive Data Preparation**: Processed and cleaned **five large supermarket datasets**, ensuring **high data integrity** and **eliminating biases** using **NLTK-based product re-categorization.**
-- **Advanced Predictive Modeling**: Implemented multiple **machine learning models** including **Linear Regression, Random Forest, XGBoost, Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), and ARIMA**. Identified **Random Forest** as the most accurate model for revenue prediction.
-- **Interactive Business Intelligence Application**: Developed a **user-friendly Streamlit application** enabling **real-time product price comparisons, historical pricing trends visualization**, and **ownership insights**, improving **data accessibility for business decision-making.**
-
-
-### <a href="https://public.tableau.com/views/Immunization-Activities/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer">Immunization Coverage Analysis</a> | (May 2024)
-- **Longitudinal Trend Analysis**: Analyzed **measles and rubella vaccination coverage** over **24 years (2000-2024)**, identifying **fluctuations and patterns** using **Tableau dashboards.**
-- **Geospatial Mapping for Policy Insights**: Created **global and regional immunization heatmaps**, highlighting **coverage disparities** and **high-risk areas.**
-- **Actionable Public Health Insights**: Developed **interactive dashboards** for **public health policymakers**, facilitating **strategic decision-making** to **optimize vaccination programs.**
-
-
-### <a href="https://github.com/sowmyamaddali/Analyzing-Macroeconomic-Trends" target="_blank" rel="noopener noreferrer">Analyzing-Macroeconomic-Trends</a> | (August - December 2023)
-- **Multi-Factor Economic Analysis**: Evaluated **four critical economic indicators**, including **Consumer Price Index** and **Producer Price Index**, to assess **economic stability and inflation trends.**
-- **Industry-Specific Market Trends**: Investigated **sectoral fluctuations** by analyzing **PPI for Finished Consumer Foods** and **PPI for Finished Goods**, providing insights into **price volatility in consumer and producer markets.**
-- **Macroeconomic Impact Assessment**: Conducted a **holistic evaluation of urban consumer pricing trends**, linking them to **domestic producer sector performance**, enabling **data-driven economic forecasting.** -->
-
 
 ## Featured Projects
 
@@ -209,22 +181,6 @@ Breast Cancer Survival Prediction & Patient Clustering
 
 <br>
 
-
-<!--##  Volunteer Experience
-
-#### Access Services Assistant | George Washington University
-_Washington, D.C | August 2023 - May 2024_
-
-#### Development Data Partnership Day Volunteer | The World Bank Group
-_Washington, D.C | October 2023_
-
-#### Economic Development Volunteer | International Monetary Fund
-_Washington, D.C | October 2023_
-Annual Meeting
-
-#### Economic Development Volunteer | International Monetary Fund
-_Washington, D.C | April 2023_
-Spring Meeting -->
 
 
 ## Skills and Leadership Activities
