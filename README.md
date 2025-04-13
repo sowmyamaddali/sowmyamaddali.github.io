@@ -120,6 +120,7 @@ Git, GitHub, Jupyter Notebook, Jira
 
 </div>
 
+<br>
 
 <!--### Syntegral, New York, USA
 #### Impact AI Intern | February - April 2023
