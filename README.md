@@ -151,9 +151,6 @@ Git, GitHub, Jupyter Notebook, Jira
 
 
 ## Featured Projects
-
-<div style="text-align: justify; text-justify: inter-word; line-height: 1.8;">
-
 <div style="font-size: 17px; font-weight: bold;">
 <a href="https://github.com/sowmyamaddali/telco-customer-churn" target="_blank" rel="noopener noreferrer">
 Customer Churn Prediction
@@ -161,25 +158,14 @@ Customer Churn Prediction
 </div>
 <em>April 2025 – Present | Python, Logistic Regression, SMOTE, ROC AUC</em>
 <ul>
-  <li>Built and evaluated multiple linear models including Logistic, Ridge, and Lasso, achieving <strong>95% accuracy</strong> and <strong>0.97 ROC AUC</strong>.</li>
-  <li>Used <strong>SMOTE</strong> for class balancing and <strong>Lasso regression</strong> for feature selection, identifying key churn drivers.</li>
+  <li>Built a machine learning model to predict which telecom customers are at risk of leaving, simulating how businesses can improve customer retention strategies.</li>
+  <li>Balanced the dataset using <strong>SMOTE</strong> to correct class imbalance and ensure fair model performance.</li>
+  <li>Trained and compared <strong>Logistic Regression, Ridge,</strong> and <strong>Lasso</strong> models; used Lasso for feature selection.</li>
+  <li>Identified key churn indicators such as <em>customer satisfaction</em> and <em>online security usage</em>.</li>
+  <li>Achieved <strong>95% accuracy</strong> and <strong>0.97 ROC AUC</strong> on the test set through iterative tuning and model validation.</li>
 </ul>
 
-<br>
 
-<div style="font-size: 17px; font-weight: bold;">
-<a href="https://github.com/sowmyamaddali/Breast-Cancer-METABRIC" target="_blank" rel="noopener noreferrer">
-Breast Cancer Survival Prediction & Patient Clustering
-</a>
-</div>
-<em>January – February 2025 | Random Forest, XGBoost, K-Means</em>
-<ul>
-  <li>Built ML and deep learning models to predict patient survival with <strong>74% accuracy</strong>.</li>
-  <li>Applied <strong>K-Means clustering</strong> to identify subgroups and treatment response patterns.</li>
-  <li>Analyzed tumor characteristics and metastasis data for personalized insights.</li>
-</ul>
-
-<br>
 
 
 
