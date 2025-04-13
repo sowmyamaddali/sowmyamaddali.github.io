@@ -112,30 +112,37 @@ Git, GitHub, Jupyter Notebook, Jira
 <div style="font-size: 14px;"><em>Virginia, USA | June – August 2023</em></div>
 
 <ul>
+  <li>Developed an automated <strong>ETL pipeline</strong> with <strong>AWS Lambda</strong> to process and store monthly energy and financial data into Excel reports.</li>
   <li>Redesigned the client billing dashboard using <strong>Microsoft Power Apps</strong>, improving speed and reducing load time from minutes to seconds.</li>
   <li>Added secure access controls to restrict data visibility by client, eliminating unauthorized access risks.</li>
-  <li>Developed an automated <strong>ETL pipeline</strong> with <strong>AWS Lambda</strong> to process and store monthly energy and financial data into Excel reports.</li>
   <li>Implemented automated backup and recovery workflows to improve data reliability and availability.</li>
 </ul>
 
 </div>
 
 
-
-
-### Syntegral, New York, USA
+<!--### Syntegral, New York, USA
 #### Impact AI Intern | February - April 2023
 - **Curated and cleaned financial datasets** from publicly available reports, ensuring **structured, high-quality data for investment analysis models.**
 - **Extracted key financial metrics** from **corporate disclosures and regulatory filings**, standardizing them for use in **predictive modeling.**
 - **Developed a knowledge graph-based investment model**, refining **data relationships** and improving **prediction accuracy** for **investment decisions.**
-- **Researched and mitigated model hallucinations**, investigating their **causes** and implementing data validation techniques to enhance **model reliability.**
+- **Researched and mitigated model hallucinations**, investigating their **causes** and implementing data validation techniques to enhance **model reliability.** -->
 
 
-### Qualcomm, Karnataka, India
-#### Machine Learning Intern | May - August 2021
-- **Automated the cleaning of daily timing reports** by developing a **preprocessing pipeline**, enabling **seamless data extraction and structured dataset creation.**
-- **Developed and deployed an LSTM-based classification model**, reducing **manual processing time by 10 man-hours per week through efficient categorization of extracted data.**
-- **Implemented continuous model retraining**, ensuring the **LSTM model remained adaptive** to evolving datasets, preventing model drift and maintaining **high classification accuracy.**
+<div style="text-align: justify; text-justify: inter-word; line-height: 1.8;">
+
+<div style="font-size: 20px; font-weight: bold;">Qualcomm</div>
+<div style="font-size: 17px; font-weight: 600; margin-bottom: 2px;">Machine Learning Intern</div>
+<div style="font-size: 14px;"><em>Karnataka, India | May – August 2021</em></div>
+
+<ul>
+  <li>Built a <strong>data preprocessing pipeline</strong> to automate cleaning of daily timing reports, enabling seamless data extraction and structured dataset creation for modeling.</li>
+  <li>Developed and deployed an <strong>LSTM-based classification model</strong> to categorize extracted data, saving <strong>10 manual hours per week</strong> and improving operational efficiency.</li>
+  <li>Implemented <strong>continuous model retraining</strong> to maintain high classification accuracy as data evolved, mitigating model drift and improving long-term performance.</li>
+</ul>
+
+</div>
+
 
 
 ## Featured Projects
