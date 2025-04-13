@@ -152,7 +152,7 @@ Git, GitHub, Jupyter Notebook, Jira
 
 ## Featured Projects
 <div style="font-size: 17px; font-weight: bold;">
-<a href="https://github.com/sowmyamaddali/telco-customer-churn" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/sowmyamaddali/customer-churn-prediction" target="_blank" rel="noopener noreferrer">
 Customer Churn Prediction
 </a>
 </div>
