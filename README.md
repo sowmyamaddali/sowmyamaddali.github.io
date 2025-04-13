@@ -87,41 +87,39 @@ Git, GitHub, Jupyter Notebook, Jira
 
 
 ## Professional Experience
-<div style="text-align: justify; text-justify: inter-word; line-height: 1.6;">
 
-<strong>Fannie Mae</strong>  
-<em>Data Scientist</em>  
-<em>Washington, DC | August 2024 – March 2025</em>  
-<small>(Contract role)</small>
+<div style="text-align: justify; text-justify: inter-word; line-height: 1.8;">
+
+<div style="font-size: 20px; font-weight: bold;">Fannie Mae</div>
+<div style="font-size: 17px; font-weight: 600; margin-bottom: 2px;">Data Scientist – Enterprise Modeling and Analytics</div>
+<div style="font-size: 14px;"><em>Washington, DC | August 2024 – March 2025</em> <br><small>(Contract role)</small></div>
 
 <ul>
-  <li>Migrated a high-volume mortgage pipeline from Python to <strong>PySpark</strong>, improving processing efficiency by <strong>40%</strong> and enabling scalable deployment in production.</li>
-  <li>Designed a break-even analysis model for <strong>Amazon EFS</strong> lifecycle transitions, adopted across teams and resulting in <strong>15%</strong> cost savings and <strong>20%</strong> better performance.</li>
-  <li>Developed dashboards using <strong>Amazon Athena, CloudTrail logs</strong>, and <strong>QuickSight</strong> to track resource usage and optimize cloud infrastructure decisions.</li>
-  <li>Built automated <strong>model monitoring workflows</strong> using <strong>SageMaker Studio</strong> and AWS APIs to detect drift and track performance in ML deployments.</li>
-  <li>Enhanced <strong>DevOps automation pipelines</strong> and documented model deployment processes to support reproducibility and operational efficiency.</li>
-  <li>Tested custom <strong>SageMaker images</strong> (CPU/GPU) for compatibility across <strong>JupyterLab, RStudio,</strong> and <strong>Code Editor</strong>.</li>
-  <li>Used <strong>Jira</strong> to manage sprint planning, task tracking, and collaboration across cross-functional teams.</li>
-  <li>Supported the <strong>SageMaker V2 migration</strong> by troubleshooting deployment challenges and providing technical documentation.</li>
+  <li>Migrated a high-volume mortgage pipeline from Python to <strong>PySpark</strong>, reducing execution time by <strong>40%</strong> and enabling scalable production deployment.</li>
+  <li>Developed a cost-saving <strong>Amazon EFS</strong> lifecycle model adopted across teams, cutting cloud storage expenses by <strong>15%</strong>.</li>
+  <li>Built dashboards with <strong>Amazon Athena</strong>, <strong>CloudTrail logs</strong>, and <strong>QuickSight</strong> to track resource usage and guide infrastructure optimization.</li>
+  <li>Created automated <strong>model monitoring workflows</strong> using <strong>SageMaker Studio</strong> and AWS APIs for drift detection and performance tracking.</li>
+  <li>Enhanced <strong>DevOps automation pipelines</strong>, improving reproducibility and deployment reliability.</li>
+  <li>Tested <strong>SageMaker images</strong> (CPU/GPU) across <strong>JupyterLab</strong>, <strong>Code Editor</strong>, and <strong>RStudio</strong>.</li>
+  <li>Used <strong>Jira</strong> for sprint planning, task tracking, and agile team collaboration.</li>
+  <li>Supported the <strong>SageMaker V2 migration</strong> through documentation and cross-team technical support.</li>
+</ul>
+
+<br>
+
+<div style="font-size: 20px; font-weight: bold;">Madison Energy Infrastructure</div>
+<div style="font-size: 17px; font-weight: 600; margin-bottom: 2px;">Data Operations Intern – Asset Management</div>
+<div style="font-size: 14px;"><em>Virginia, USA | June – August 2023</em></div>
+
+<ul>
+  <li>Redesigned the client billing dashboard using <strong>Microsoft Power Apps</strong>, improving speed and reducing load time from minutes to seconds.</li>
+  <li>Added secure access controls to restrict data visibility by client, eliminating unauthorized access risks.</li>
+  <li>Developed an automated <strong>ETL pipeline</strong> with <strong>AWS Lambda</strong> to process and store monthly energy and financial data into Excel reports.</li>
+  <li>Implemented automated backup and recovery workflows to improve data reliability and availability.</li>
 </ul>
 
 </div>
 
-
-<div style="text-align: justify; text-justify: inter-word; line-height: 1.6;">
-
-<strong>Madison Energy Infrastructure</strong>  
-<em>Data Operations Intern</em>  
-<em>Virginia, USA | June – August 2023</em>
-
-<ul>
-  <li>Redesigned the company’s billing dashboard using <strong>Microsoft Power Apps</strong>, reducing load time from several minutes to seconds and improving processing speed.</li>
-  <li>Integrated a secure access control layer to ensure clients could view only their purchased services, preventing unauthorized data access.</li>
-  <li>Developed an automated <strong>ETL pipeline</strong> with <strong>AWS Lambda</strong> to extract, transform, and store monthly energy and financial data in structured Excel reports.</li>
-  <li>Implemented an automated backup and disaster recovery system, increasing data availability and reducing risk of data loss.</li>
-</ul>
-
-</div>
 
 
 
