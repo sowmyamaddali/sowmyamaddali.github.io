@@ -87,12 +87,10 @@ Git, GitHub, Jupyter Notebook, Jira
 
 
 ## Professional Experience
-## Professional Experience
-
 <div style="text-align: justify; text-justify: inter-word; line-height: 1.6;">
 
 <strong>Fannie Mae</strong>  
-<em>Data Scientist – Enterprise Modeling and Analytics</em>  
+<em>Data Scientist</em>  
 <em>Washington, DC | August 2024 – March 2025</em>  
 <small>(Contract role)</small>
 
@@ -110,13 +108,21 @@ Git, GitHub, Jupyter Notebook, Jira
 </div>
 
 
+<div style="text-align: justify; text-justify: inter-word; line-height: 1.6;">
 
-### Madison Energy Infrastructure, Virginia, USA
-#### Operations Intern | Asset Management | June - August 2023
-- **Redesigned the company's billing application** using **Microsoft Power Apps**, improving **processing speed** and reducing **page load times from minutes to seconds.**
-- **Integrated a security access layer within Power Apps**, ensuring that **clients could only view their own purchased services**, eliminating **unauthorized data exposure incidents.**
-- **Engineered an automated data pipeline** using **AWS Lambda**, enabling **seamless monthly data extraction, transformation, and structured storage into Excel reports.**
-- **Implemented a backup and disaster recovery system**, automating **data backups and restoration processes**, ensuring **high data availability** and reducing **risk of data loss.**
+<strong>Madison Energy Infrastructure</strong>  
+<em>Data Operations Intern</em>  
+<em>Virginia, USA | June – August 2023</em>
+
+<ul>
+  <li>Redesigned the company’s billing dashboard using <strong>Microsoft Power Apps</strong>, reducing load time from several minutes to seconds and improving processing speed.</li>
+  <li>Integrated a secure access control layer to ensure clients could view only their purchased services, preventing unauthorized data access.</li>
+  <li>Developed an automated <strong>ETL pipeline</strong> with <strong>AWS Lambda</strong> to extract, transform, and store monthly energy and financial data in structured Excel reports.</li>
+  <li>Implemented an automated backup and disaster recovery system, increasing data availability and reducing risk of data loss.</li>
+</ul>
+
+</div>
+
 
 
 ### Syntegral, New York, USA
