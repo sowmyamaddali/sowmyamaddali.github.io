@@ -1,3 +1,9 @@
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-slate
+
 #title: Sowmya Maddali
 #description: >-
   #Arlington, VA | (571)-541-8212 |
@@ -7,11 +13,11 @@
 #show_downloads: false
 #theme: jekyll-theme-slate
 
-title: Sowmya Maddali
-description: >-
-  Arlington, VA | (571)-541-8212 |
-  <a href="mailto:maddalisowmya@gmail.com" target="_blank">maddalisowmya@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/sowmya-maddali-2495b3169/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-  <a href="https://github.com/sowmyamaddali" target="_blank" rel="noopener noreferrer">GitHub</a>
-show_downloads: false
-theme: jekyll-theme-slate
+# title: Sowmya Maddali
+# description: >-
+#   Arlington, VA | (571)-541-8212 |
+#   <a href="mailto:maddalisowmya@gmail.com" target="_blank">maddalisowmya@gmail.com</a> |
+#   <a href="https://www.linkedin.com/in/sowmya-maddali-2495b3169/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+#   <a href="https://github.com/sowmyamaddali" target="_blank" rel="noopener noreferrer">GitHub</a>
+# show_downloads: false
+# theme: jekyll-theme-slate
