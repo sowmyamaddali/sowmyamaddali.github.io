@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a href="/experience" class="btn">View Professional Experience</a>
+<a href="/experience" class="custom-btn">Professional Experience</a>
 
 ## About Me
 <div class="justify-text">
