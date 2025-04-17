@@ -1,18 +1,12 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 25px; justify-content: center;">
 
-  <a href="#about-me" style="text-decoration: none;">
-    <button style="padding: 8px 16px; border: none; border-radius: 6px; background-color: #3c8dbc; color: white; font-size: 14px; cursor: pointer;">
-      About Me
-    </button>
-  </a>
-
-  <a href="#education" style="text-decoration: none;">
+  <a href="##education" style="text-decoration: none;">
     <button style="padding: 8px 16px; border: none; border-radius: 6px; background-color: #3c8dbc; color: white; font-size: 14px; cursor: pointer;">
       Education
     </button>
   </a>
 
-  <a href="#technical-skills" style="text-decoration: none;">
+  <a href="##technical-skills" style="text-decoration: none;">
     <button style="padding: 8px 16px; border: none; border-radius: 6px; background-color: #3c8dbc; color: white; font-size: 14px; cursor: pointer;">
       Skills
     </button>
