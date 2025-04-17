@@ -53,17 +53,6 @@ td {
   text-align: center;
 }
 
-// .btn {
-//   display: inline-block;
-//   padding: 10px 20px;
-//   background-color: #1f77b4; /* change color as needed */
-//   color: white;
-//   text-decoration: none;
-//   border-radius: 6px;
-//   font-weight: bold;
-//   transition: background-color 0.3s ease;
-// }
-
 .custom-btn {
   display: inline-block;
   background-color: #1f77b4; /* Blue button */
@@ -80,4 +69,25 @@ td {
 .custom-btn:hover {
   background-color: #155a8a;
   text-decoration: none;
+}
+
+.projects-nav {
+  margin-bottom: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.projects-nav a {
+  background-color: #1f77b4;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.projects-nav a:hover {
+  background-color: #155a8a;
 }
