@@ -28,3 +28,22 @@ th {
 td {
   text-align: left;     /* You can change this to center if needed */
 }
+
+.skills-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.skills-table th,
+.skills-table td {
+  border: none;            /* No borders */
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.skills-table th {
+  color: #1f77b4;
+  font-weight: bold;
+  text-align: center;
+}
