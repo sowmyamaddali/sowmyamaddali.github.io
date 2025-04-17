@@ -30,3 +30,40 @@ I’m a Data Scientist with a passion for transforming complex data into actiona
     </tr>
   </tbody>
 </table>
+
+
+## Technical Skills
+<table class="skills-table">
+  <tr>
+    <th>Category</th>
+    <th>Tools / Languages</th>
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>Python, R, SQL, Java, C++</td>
+  </tr>
+  <tr>
+    <td>ML & AI</td>
+    <td>Scikit-learn, TensorFlow, Keras, NLP, Computer Vision</td>
+  </tr>
+  <tr>
+    <td>Data Engineering</td>
+    <td>Apache Spark, PySpark, ETL</td>
+  </tr>
+  <tr>
+    <td>Visualization</td>
+    <td>Tableau, Power BI, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <td>Databases</td>
+    <td>MySQL, PostgreSQL, MongoDB, SQLite</td>
+  </tr>
+  <tr>
+    <td>Cloud</td>
+    <td>AWS (S3, Lambda, EC2, RDS, EMR, etc.)</td>
+  </tr>
+  <tr>
+    <td>Version Control</td>
+    <td>Git</td>
+  </tr>
+</table>
