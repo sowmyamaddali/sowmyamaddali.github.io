@@ -6,3 +6,24 @@
 .justify-text {
   text-align: justify;
 }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 1rem;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+th {
+  background-color: #f0f0f0;
+  color: #1f77b4;       /* Header text color */
+  text-align: center;   /* Center the header */
+}
+
+td {
+  text-align: left;     /* You can change this to center if needed */
+}
