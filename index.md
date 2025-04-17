@@ -39,31 +39,39 @@ I’m a Data Scientist with a passion for transforming complex data into actiona
     <th>Tools / Languages</th>
   </tr>
   <tr>
-    <td>Languages</td>
-    <td>Python, R, SQL, Java, C++</td>
+    <td>Programming Languages</td>
+    <td>Python, R, SQL</td>
   </tr>
   <tr>
-    <td>ML & AI</td>
-    <td>Scikit-learn, TensorFlow, Keras, NLP, Computer Vision</td>
+    <td>Big Data & Data Engineering</td>
+    <td>Apache Spark, PySpark, ETL, CI/CD</td>
   </tr>
   <tr>
-    <td>Data Engineering</td>
-    <td>Apache Spark, PySpark, ETL</td>
+    <td>Databases & Data Processing</td>
+    <td>MySQL, PostgreSQL, SQLite, MongoDB, Neo4j</td>
   </tr>
   <tr>
-    <td>Visualization</td>
-    <td>Tableau, Power BI, Matplotlib, Seaborn</td>
+    <td>Machine Learning & AI</td>
+    <td>Scikit-learn, Tensorflow, Keras, NLP</td>
   </tr>
   <tr>
-    <td>Databases</td>
-    <td>MySQL, PostgreSQL, MongoDB, SQLite</td>
+    <td>Statistical Analysis & Time Series</td>
+    <td>RStudio, Statsmodels, Forecasting Models</td>
   </tr>
   <tr>
-    <td>Cloud</td>
-    <td>AWS (S3, Lambda, EC2, RDS, EMR, etc.)</td>
+    <td>Data Visualization & Analytics</td>
+    <td>Excel, Tableau, Power BI, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <td>Cloud & DevOps</td>
+    <td>AWS (S3, Lambda, Redshift, SageMaker, EC2, EMR, Pipelines, CloudWatch, CloudTrails)</td>
   </tr>
   <tr>
     <td>Version Control</td>
-    <td>Git</td>
+    <td>Git, GitHub</td>
+  </tr>
+  <tr>
+    <td>Project Management Tools</td>
+    <td>Jira, Confluence</td>
   </tr>
 </table>
