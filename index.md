@@ -35,10 +35,6 @@ I’m a Data Scientist with a passion for transforming complex data into actiona
 ## Technical Skills
 <table class="skills-table">
   <tr>
-    <th>Category</th>
-    <th>Tools / Languages</th>
-  </tr>
-  <tr>
     <td>Programming Languages</td>
     <td>Python, R, SQL</td>
   </tr>
@@ -75,3 +71,6 @@ I’m a Data Scientist with a passion for transforming complex data into actiona
     <td>Jira, Confluence</td>
   </tr>
 </table>
+
+
+### Professional Experience
