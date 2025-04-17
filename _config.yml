@@ -7,29 +7,11 @@
 #show_downloads: false
 #theme: jekyll-theme-slate
 
-# title: Sowmya Maddali
-# description: >-
-#   Arlington, VA | (571)-541-8212 |
-#   <a href="mailto:maddalisowmya@gmail.com" target="_blank">maddalisowmya@gmail.com</a> |
-#   <a href="https://www.linkedin.com/in/sowmya-maddali-2495b3169/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-#   <a href="https://github.com/sowmyamaddali" target="_blank" rel="noopener noreferrer">GitHub</a>
-# show_downloads: false
-# theme: jekyll-theme-slate
-
 title: Sowmya Maddali
-email: maddalisowmya82@gmail.com
 description: >-
- # Data Scientist | Cloud ML | Visualization Enthusiast  
-  Arlington, VA · (571)-541-8212 ·  
-  <a href="mailto:maddalisowmya@gmail.com" target="_blank">maddalisowmya@gmail.com</a> · 
-  <a href="https://www.linkedin.com/in/sowmya-maddali-2495b3169/" target="_blank" rel="noopener noreferrer">LinkedIn</a> · 
-  <a href="https://github.com/sowmyamaddali" target="_blank" rel="noopener noreferrer">GitHub</a> 
-
-theme: jekyll-theme-slate
+  Arlington, VA | (571)-541-8212 |
+  <a href="mailto:maddalisowmya@gmail.com" target="_blank">maddalisowmya@gmail.com</a> |
+  <a href="https://www.linkedin.com/in/sowmya-maddali-2495b3169/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+  <a href="https://github.com/sowmyamaddali" target="_blank" rel="noopener noreferrer">GitHub</a>
 show_downloads: false
-google_analytics: # You can add your GA tracking ID here (optional)
-markdown: kramdown
-
-# Optional: Add social links for GitHub Pages metadata
-github:
-  is_project_page: false
+theme: jekyll-theme-slate
