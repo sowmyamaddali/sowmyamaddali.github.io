@@ -3,7 +3,7 @@ layout: default
 ---
 
 <a href="/experience" class="custom-btn">Professional Experience</a>
-<a href="/project" class="custom-btn">Technical Projects</a>
+<a href="/projects" class="custom-btn">Technical Projects</a>
 
 ## About Me
 <div class="justify-text">
