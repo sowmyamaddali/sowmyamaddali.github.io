@@ -8,7 +8,7 @@ title: projects
 <nav class="projects-nav">
   <a href="#python-ml">Python & Machine Learning</a>
   <a href="#r-ml">R & Machine Learning</a>
-  <a href="#tableau">Tableau Dashboards</a>
+  <a href="#viz">Tableau Dashboards</a>
   <a href="#portfolio">Portfolio Website</a>
 </nav>
 
@@ -25,7 +25,7 @@ title: projects
 
 
 
-## <a name="tableau"></a>Tableau Dashboards
+## <a name="viz"></a>Data Visualization Projects
 
 ### Virginia Air Quality Dashboard
 
