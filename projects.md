@@ -28,6 +28,7 @@ title: projects
 ## <a name="tableau"></a>Tableau Dashboards
 
 ### Virginia Air Quality Dashboard
+
 **Tools:** Excel, Tableau
 
 **Skills Demonstrated:** Data cleaning, visualization design, public health analysis, storytelling
@@ -53,6 +54,38 @@ title: projects
 
 📍 [View interactive dashboard on Tableau Public](https://public.tableau.com/views/air_quality_workbook_dashboard/VirginiaAirQualityAnalysis2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+<br>
+
+
+### Measles & Rubella Immunization Activities
+
+**Tools:** Excel, Tableau  
+**Skills Demonstrated:** Data preprocessing, trend analysis, interactive dashboard design, public health visualization
+
+![Immunization Dashboard](assets/images/measles-rubella-immunization.png)
+
+<div class="justify-text">
+  <p><strong>Summary:</strong><br>
+  Built an interactive Tableau dashboard to explore global measles and rubella immunization efforts from 2000 to 2024. The dashboard visualizes coverage trends, regional disparities, and campaign timelines using various interactive charts.
+  </p>
+
+  <p><strong>Key Insights:</strong></p>
+  <ul>
+    <li>Highlighted regions with consistently suboptimal immunization coverage, guiding targeted public health interventions.</li>
+    <li>Identified temporal trends in vaccination effectiveness across intervention types and WHO regions.</li>
+    <li>Enabled dynamic data exploration through filters and visual drill-downs, improving accessibility and usability of global immunization data.</li>
+  </ul>
+
+  <p><strong>Impact:</strong><br>
+  The dashboard empowers public health organizations and planners to make informed, data-driven decisions by identifying at-risk populations and optimizing future immunization strategies.
+  </p>
+</div>
+
+📍 [View interactive dashboard on Tableau Public](https://public.tableau.com/views/Immunization-Activities/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<br>
+
+
 
 
 ## <a name="portfolio"></a>Portfolio Website
@@ -60,4 +93,4 @@ title: projects
 
 
 
-[back](./)
+[Home](./)
