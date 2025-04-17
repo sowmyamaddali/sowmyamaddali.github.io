@@ -9,7 +9,24 @@ I’m a Data Scientist with a passion for transforming complex data into actiona
 
 
 ## Education
-| Degree                      | University                                       | GPA   |
-|:----------------------------|:-------------------------------------------------|:------|
-| Master of Science           | George Washington University, DC, USA            | 3.97  |
-| Bachelor of Engineering     | Visvesvaraya Technological University, KA, India | 8.10  |
+<table>
+  <thead>
+    <tr>
+      <th>Degree</th>
+      <th>University</th>
+      <th>GPA</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Master of Science</td>
+      <td>George Washington University, DC, USA</td>
+      <td>3.97</td>
+    </tr>
+    <tr>
+      <td>Bachelor of Engineering</td>
+      <td>Visvesvaraya Technological University, KA, India</td>
+      <td>8.10</td>
+    </tr>
+  </tbody>
+</table>
