@@ -35,6 +35,11 @@ td {
   margin-top: 1rem;
 }
 
+.skills-table td:first-child {
+  font-weight: bold;
+}
+
+
 .skills-table th,
 .skills-table td {
   border: 1px solid #ddd;            
