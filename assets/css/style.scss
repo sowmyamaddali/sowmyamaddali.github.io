@@ -52,3 +52,31 @@ td {
   font-weight: bold;
   text-align: center;
 }
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #1f77b4; /* change color as needed */
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.custom-btn {
+  display: inline-block;
+  background-color: #1f77b4; /* Blue button */
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.custom-btn:hover {
+  background-color: #155a8a;
+  text-decoration: none;
+}
