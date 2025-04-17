@@ -9,7 +9,7 @@ I’m a Data Scientist with a passion for transforming complex data into actiona
 
 
 ## Education
-<table>
+<table class="skills-table">
   <thead>
     <tr>
       <th>Degree</th>
