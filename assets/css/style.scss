@@ -91,3 +91,12 @@ td {
 .projects-nav a:hover {
   background-color: #155a8a;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+  margin: 1.5rem auto;
+  object-fit: cover;
+}
