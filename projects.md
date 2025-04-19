@@ -7,7 +7,7 @@ title: projects
 
 <nav class="projects-nav">
   <a href="#python-ml">Python & Machine Learning</a>
-  <a href="#r-ml">R & Machine Learning</a>
+  <a href="#r-ds">R & Machine Learning</a>
   <a href="#viz">Tableau Dashboards</a>
   <a href="#portfolio">Portfolio Website</a>
 </nav>
@@ -20,16 +20,70 @@ title: projects
 
 
 
-## <a name="r-ml"></a>R & Machine Learning
+## <a name="r-ds"></a>Data Science Projects in R
 
+### Brain Stroke Prediction
 
+**Tools:** R, dplyr, ggplot2, ROSE, caret  
+**Skills Demonstrated:** Data cleaning, class imbalance handling, model comparison, feature importance analysis, binary classification
+
+<div class="justify-text">
+  <p><strong>Summary:</strong><br>
+  This R-based project focuses on predicting the likelihood of a stroke in patients using demographic and health-related data. The dataset contains 5,110 records and 12 features, including age, glucose levels, BMI, and smoking status. Preprocessing involved handling 210 missing values, encoding categorical variables, and normalizing continuous features. Multiple classification algorithms were used to assess model performance, including logistic regression, decision trees, and random forest classifiers.
+  </p>
+
+  <p><strong>Key Insights:</strong></p>
+  <ul>
+    <li>Initial model performance was hindered by class imbalance, prompting the use of ROSE and a combined under/over sampling strategy for rebalancing.</li>
+    <li>Random Forest consistently outperformed Logistic Regression and Decision Tree classifiers under both sampling strategies.</li>
+    <li>Feature importance plots from Random Forest highlighted age, glucose level, and hypertension as key predictors of stroke risk.</li>
+  </ul>
+
+  <p><strong>Model Performance Comparison:</strong></p>
+
+  <table class="model-table">
+    <thead>
+      <tr>
+        <th>Sampling Technique</th>
+        <th>Model</th>
+        <th>Accuracy</th>
+        <th>Recall</th>
+        <th>AUC Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ROSE</td>
+        <td>Random Forest (no feature selection)</td>
+        <td>0.78</td>
+        <td>0.79</td>
+        <td>0.794</td>
+      </tr>
+      <tr>
+        <td>Under + Over Sampling</td>
+        <td>Random Forest (no feature selection)</td>
+        <td>0.916</td>
+        <td>0.94</td>
+        <td>0.84</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><strong>Impact:</strong><br>
+  This project demonstrates how machine learning can support early detection of stroke risk factors using health and lifestyle data. It highlights the role of sampling techniques in improving model performance and reinforces the importance of data-driven tools in public health prediction and prevention efforts.
+  </p>
+</div>
+
+📍 [View Code](https://github.com/sowmyamaddali/DATS6101_Project_Team_Sage)
+
+<br>
 
 
 ## <a name="viz"></a>Data Visualization Projects
 
 ### Virginia Air Quality Dashboard
 
-**Tools:** Excel, Tableau
+**Tools:**  Excel, Tableau
 
 **Skills Demonstrated:** Data cleaning, visualization design, public health analysis, storytelling
 
