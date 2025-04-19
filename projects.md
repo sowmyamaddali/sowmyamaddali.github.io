@@ -16,8 +16,117 @@ title: projects
 
 ## <a name="python-ml"></a>Python & Machine Learning
 
+## Macroeconomic Forecasting with VAR Models in R
 
+**Tools:** R, vars, urca, dplyr, ggplot2  
+**Skills Demonstrated:** Time series stationarity analysis, ARIMA modeling, VAR modeling, cointegration testing, impulse response analysis, forecast error variance decomposition, data visualization
 
+<div class="justify-text">
+  <p><strong>Summary:</strong><br>
+  This project applies time series forecasting techniques in R to analyze and predict movements in four key macroeconomic indicators: the Consumer Price Index (CPI), Producer Price Index (PPI), PPI for Finished Goods (PPIFG), and PPI for Finished Consumer Foods (PPIFCF). The analysis involved testing for stationarity and cointegration, fitting ARIMA and Vector Autoregressive (VAR) models, and evaluating model performance using forecast error metrics (MSE, MAE). Impulse response functions and forecast error variance decomposition (FEVD) were used to analyze interdependencies and the effects of shocks on each series.
+  </p>
+
+  <p><strong>Key Insights:</strong></p>
+  <ul>
+    <li>All four series were found to be integrated of order one (I(1)), requiring first differencing for stationarity.</li>
+    <li>Optimal lag lengths for VAR models were determined using AIC, with VAR(6) providing the best forecasting performance overall.</li>
+    <li>Impulse response analysis showed CPI was significantly influenced by lagged values of PPI and PPIFG, while PPI responded to shocks in CPI and PPIFG with lagged, oscillating behavior.</li>
+    <li>FEVD analysis confirmed CPI’s dominance in explaining its own forecast variance and PPI’s high sensitivity to CPI innovations.</li>
+  </ul>
+
+  <p><strong>Model Performance Comparison (Forecasting Accuracy):</strong></p>
+
+<table class="model-table">
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Variable</th>
+      <th>MSE</th>
+      <th>MAE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>VAR(6)</td>
+      <td>CPI</td>
+      <td>0.145</td>
+      <td>0.304</td>
+    </tr>
+    <tr>
+      <td>VAR(6)</td>
+      <td>PPI</td>
+      <td>1.820</td>
+      <td>1.107</td>
+    </tr>
+    <tr>
+      <td>VAR(6)</td>
+      <td>PPIFG</td>
+      <td>1.116</td>
+      <td>0.935</td>
+    </tr>
+    <tr>
+      <td>VAR(6)</td>
+      <td>PPIFCF</td>
+      <td>2.377</td>
+      <td>1.356</td>
+    </tr>
+    <tr>
+      <td>VAR(2)</td>
+      <td>CPI</td>
+      <td>0.313</td>
+      <td>0.494</td>
+    </tr>
+    <tr>
+      <td>VAR(2)</td>
+      <td>PPI</td>
+      <td>1.089</td>
+      <td>0.819</td>
+    </tr>
+    <tr>
+      <td>VAR(2)</td>
+      <td>PPIFG</td>
+      <td>1.105</td>
+      <td>0.927</td>
+    </tr>
+    <tr>
+      <td>VAR(2)</td>
+      <td>PPIFCF</td>
+      <td>2.339</td>
+      <td>1.113</td>
+    </tr>
+    <tr>
+      <td>VAR(1)</td>
+      <td>CPI</td>
+      <td>0.137</td>
+      <td>0.311</td>
+    </tr>
+    <tr>
+      <td>VAR(1)</td>
+      <td>PPI</td>
+      <td>1.253</td>
+      <td>0.882</td>
+    </tr>
+    <tr>
+      <td>VAR(1)</td>
+      <td>PPIFG</td>
+      <td>0.988</td>
+      <td>0.896</td>
+    </tr>
+    <tr>
+      <td>VAR(1)</td>
+      <td>PPIFCF</td>
+      <td>2.002</td>
+      <td>1.058</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Impact:</strong><br>
+  This project demonstrates the power of multivariate time series models in capturing macroeconomic relationships and forecasting inflation-related indices. It also shows the importance of model selection, diagnostics, and interpretability in economic forecasting. The results have implications for central banks, policy analysts, and economists interested in inflation dynamics and inter-market linkages.
+  </p>
+</div>
+
+<br>
 
 
 ## <a name="r-ds"></a>Data Science Projects in R
