@@ -7,9 +7,9 @@ title: projects
 
 <nav class="projects-nav">
   <a href="#python-ml">Machine Learning & NLP Projects in Python</a>
-  <a href="#r-ds">R & Machine Learning</a>
+  <a href="#r-ds">Data Science Projects in R</a>
   <a href="#viz">Data Visualization Projects</a>
-  <a href="#portfolio">Portfolio Website</a>
+  <a href="#portfolio">Technical Portfolio Website</a>
 </nav>
 
 ---
@@ -500,11 +500,31 @@ This project demonstrates the integration of survival statistics, machine learni
 <br>
 
 
+## <a name="portfolio"></a>Technical Portfolio Website
+
+**Tools:** GitHub Pages, Jekyll, SCSS, Markdown, HTML  
+**Skills Demonstrated:** Static site generation, technical writing, UI customization, documentation, Git-based version control
+
+<div class="justify-text">
+  <p><strong>Summary:</strong><br>
+  This portfolio website was built using Jekyll and GitHub Pages as a fully customizable static site. It showcases technical projects across data science, machine learning, and analytics, while also demonstrating front-end development skills through custom styling and layout design. Core pages such as <code>index.md</code> and <code>experience.md</code> were created and managed directly using Markdown and HTML.
+  </p>
+
+  <p><strong>Key Features:</strong></p>
+  <ul>
+    <li>Structured navigation for Data Visualization, Machine Learning, NLP, R Projects, and Time Series sections.</li>
+    <li>Customized layout based on Jekyll's Slate theme, extended with personalized SCSS styling.</li>
+    <li>Responsive images and justified content layout for a clean, professional appearance.</li>
+    <li>Interactive buttons linking between internal project pages.</li>
+    <li>Uniform styling across project entries using HTML-based tables and consistent formatting across Markdown files like <code>index.md</code> and <code>experience.md</code>.</li>
+  </ul>
+
+  <p><strong>Impact:</strong><br>
+  This site not only presents project work but serves as a technical artifact in itself — demonstrating end-to-end static site development, version control, layout design, and content management for professional documentation and portfolio presentation.
+  </p>
+</div>
 
 
-## <a name="portfolio"></a>Portfolio Website
-
-
-
+<br>
 
 [Home](./)
