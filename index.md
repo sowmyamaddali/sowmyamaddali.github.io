@@ -4,6 +4,7 @@ layout: default
 
 <a href="/experience" class="custom-btn">Professional Experience</a>
 <a href="/projects" class="custom-btn">Technical Projects</a>
+<a href="/extra" class="custom-btn">Leadership & Engagement</a>
 
 ## About Me
 <div class="justify-text">
