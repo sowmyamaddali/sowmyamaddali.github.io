@@ -100,3 +100,22 @@ img {
   margin: 1.5rem auto;
   object-fit: cover;
 }
+
+.model-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.model-table th,
+.model-table td {
+  border: 1px solid #ddd;
+  padding: 8px 10px;
+  text-align: center;
+}
+
+.model-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+  color: #1f77b4;
+}
