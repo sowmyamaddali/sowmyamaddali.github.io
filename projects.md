@@ -6,9 +6,9 @@ title: projects
 # Technical Projects
 
 <nav class="projects-nav">
-  <a href="#python-ml">Python & Machine Learning</a>
+  <a href="#python-ml">Machine Learning & NLP Projects in Python</a>
   <a href="#r-ds">R & Machine Learning</a>
-  <a href="#viz">Tableau Dashboards</a>
+  <a href="#viz">Data Visualization Projects</a>
   <a href="#portfolio">Portfolio Website</a>
 </nav>
 
@@ -16,7 +16,85 @@ title: projects
 
 ## <a name="python-ml"></a>Python & Machine Learning
 
-## Macroeconomic Forecasting with VAR Models in R
+### Customer Churn Prediction
+**Tools:** Python, pandas, scikit-learn, imbalanced-learn, seaborn, matplotlib  
+**Skills Demonstrated:** EDA, feature engineering, class imbalance handling, model comparison, linear modeling, tree-based modeling, regularization, interpretability, business insight
+
+<div class="justify-text">
+  <p><strong>Summary:</strong><br>
+  This project involved building an end-to-end machine learning pipeline to predict customer churn using the Telco dataset. The dataset contained information on 7,043 telecom customers in California, with features related to demographics, services used, and account activity. After exploratory analysis, the dataset was cleaned, transformed, and split into linear and tree-based model datasets. Class imbalance (~73% No Churn vs. ~27% Churn) was addressed using multiple resampling strategies, with SMOTE selected for its superior performance.
+  </p>
+
+  <p><strong>Key Insights:</strong></p>
+  <ul>
+    <li>Customers with month-to-month contracts, fiber optic internet, and low tenure were significantly more likely to churn.</li>
+    <li>Senior citizens and users who paid via Bank Withdrawal were also at higher churn risk.</li>
+    <li>Lasso Regression identified the most impactful features: satisfaction score, online security, phone service, and internet type.</li>
+  </ul>
+
+  <p><strong>Model Performance Summary:</strong></p>
+
+  <table class="model-table">
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>Accuracy</th>
+        <th>Precision (Churn)</th>
+        <th>Recall (Churn)</th>
+        <th>ROC AUC</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Logistic Regression</td>
+        <td>93%</td>
+        <td>0.87</td>
+        <td>0.87</td>
+        <td>0.97</td>
+      </tr>
+      <tr>
+        <td>Ridge Classifier</td>
+        <td>95%</td>
+        <td>0.92</td>
+        <td>0.87</td>
+        <td>0.97</td>
+      </tr>
+      <tr>
+        <td>Lasso Regression</td>
+        <td>93%</td>
+        <td>0.88</td>
+        <td>0.86</td>
+        <td>0.96</td>
+      </tr>
+      <tr>
+        <td>Decision Tree</td>
+        <td>95%</td>
+        <td>0.90</td>
+        <td>0.90</td>
+        <td>0.93</td>
+      </tr>
+      <tr>
+        <td>Random Forest</td>
+        <td>95%</td>
+        <td>0.98</td>
+        <td>0.84</td>
+        <td>0.98</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><strong>Impact:</strong><br>
+  The project highlights how machine learning models can help telecom providers predict and proactively manage customer churn. The final Random Forest model offered excellent precision and class separation, making it suitable for prioritizing high-risk customers and designing retention strategies.
+  </p>
+</div>
+
+📍 [View Code](https://github.com/sowmyamaddali/customer-churn-prediction)
+
+<br>
+
+## <a name="r-ds"></a>Data Science Projects in R
+
+### Macroeconomic Forecasting with VAR Models in R
 
 **Tools:** R, vars, urca, dplyr, ggplot2  
 **Skills Demonstrated:** Time series stationarity analysis, ARIMA modeling, VAR modeling, cointegration testing, impulse response analysis, forecast error variance decomposition, data visualization
@@ -129,9 +207,6 @@ title: projects
 📍 [View Code](https://github.com/sowmyamaddali/Analyzing-Macroeconomic-Trends)
 
 <br>
-
-
-## <a name="r-ds"></a>Data Science Projects in R
 
 ### Brain Stroke Prediction
 
