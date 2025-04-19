@@ -156,6 +156,86 @@ This project demonstrates the integration of survival statistics, machine learni
   </p>
 </div>
 
+📍 [View Code](https://github.com/sowmyamaddali/Breast-Cancer-METABRIC)
+
+<br>
+
+### Revenue Prediction & Customer Analytics for Supermarkets
+
+**Tools:** Python, pandas, scikit-learn, xgboost, keras, statsmodels, Streamlit  
+**Skills Demonstrated:** Time series forecasting, regression modeling, deep learning, EDA, feature engineering, dashboard development, business analytics
+
+<div class="justify-text">
+  <p><strong>Summary:</strong><br>
+  This end-to-end project forecasts next-day revenue across supermarket categories using sales data from five major UK retailers. The project includes extensive feature engineering (e.g., lag features, cyclical encodings, rolling statistics), EDA, and predictive modeling using machine learning, deep learning, and time series approaches. A Streamlit dashboard was also built to make insights and predictions accessible to non-technical users. The models were evaluated using MAE, RMSE, and R² metrics.
+  </p>
+
+  <p><strong>Key Insights:</strong></p>
+  <ul>
+    <li><strong>Random Forest</strong> delivered strong predictive performance with low MAE and RMSE, making it ideal for stable retail forecasting.</li>
+    <li><strong>XGBoost</strong> achieved the highest R² score (0.91) and performed best overall, capturing complex interactions between price, product type, and time-based features.</li>
+    <li><strong>LSTM</strong> models captured sequential sales trends but had higher variance, particularly on test data.</li>
+    <li><strong>ARIMA</strong> was the weakest performer in this multivariate setting, confirming the advantages of machine learning in retail forecasting tasks.</li>
+  </ul>
+
+  <p><strong>Model Performance Comparison:</strong></p>
+
+  <table class="model-table">
+    <thead>
+      <tr>
+        <th>Model</th>
+        <th>R² (Test)</th>
+        <th>MAE (Test)</th>
+        <th>RMSE (Test)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Linear Regression</td>
+        <td>0.85</td>
+        <td>5.37</td>
+        <td>15.78</td>
+      </tr>
+      <tr>
+        <td>Random Forest</td>
+        <td>0.90</td>
+        <td>2.39</td>
+        <td>11.08</td>
+      </tr>
+      <tr>
+        <td>XGBoost</td>
+        <td>0.91</td>
+        <td>3.76</td>
+        <td>13.55</td>
+      </tr>
+      <tr>
+        <td>ANN</td>
+        <td>0.90</td>
+        <td>3.60</td>
+        <td>11.68</td>
+      </tr>
+      <tr>
+        <td>LSTM</td>
+        <td>0.85</td>
+        <td>5.17</td>
+        <td>16.43</td>
+      </tr>
+      <tr>
+        <td>ARIMA</td>
+        <td>0.67</td>
+        <td>6.40</td>
+        <td>7.40</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p><strong>Impact:</strong><br>
+  This project provides a practical framework for retail revenue forecasting using interpretable and high-performing models. The results can help supermarkets reduce inventory waste, improve pricing decisions, and optimize daily operations. The accompanying Streamlit app empowers stakeholders to explore trends, compare product pricing, and visualize performance across brands and categories.
+  </p>
+</div>
+
+📍 [View Code](https://github.com/sowmyamaddali/Revenue-Prediction-Customer-Analytics-for-Supermarket-Data/tree/main)
+
 <br>
 
 
