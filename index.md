@@ -44,11 +44,11 @@ I’m a Data Scientist with a passion for transforming complex data into actiona
   </tr>
   <tr>
     <td>Big Data & Data Engineering</td>
-    <td>Apache Spark, PySpark, ETL, CI/CD</td>
+    <td>Apache Spark, PySpark, ETL, CI/CD, dbt</td>
   </tr>
   <tr>
     <td>Databases & Data Processing</td>
-    <td>MySQL, PostgreSQL, SQLite, MongoDB, Neo4j</td>
+    <td>MySQL, PostgreSQL, SQLite, DuckDB, MongoDB, Neo4j</td>
   </tr>
   <tr>
     <td>Machine Learning & AI</td>
