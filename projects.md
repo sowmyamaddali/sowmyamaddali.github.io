@@ -415,6 +415,14 @@ This project demonstrates the integration of survival statistics, machine learni
 
 ## <a name="viz"></a>Data Visualization Projects
 
+### E-Commerce Analytics Dashboard (UK Retail Sales)
+
+**Tools:** dbt, DuckDB, Python, Tableau
+
+**Skills Demonstrated:** Data modeling, SQL transformations, dashboard design, KPI tracking, end-to-end data pipeline development
+
+
+
 ### Virginia Air Quality Dashboard
 
 **Tools:**  Excel, Tableau
