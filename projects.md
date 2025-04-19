@@ -14,7 +14,7 @@ title: projects
 
 ---
 
-## <a name="python-ml"></a>Python & Machine Learning
+## <a name="python-ml"></a>Machine Learning & NLP Projects in Python
 
 ### Customer Churn Prediction
 **Tools:** Python, pandas, scikit-learn, imbalanced-learn, seaborn, matplotlib  
@@ -205,6 +205,72 @@ title: projects
 </div>
 
 📍 [View Code](https://github.com/sowmyamaddali/Analyzing-Macroeconomic-Trends)
+
+<br>
+
+
+### Breast Cancer - Survival Analysis & Predictive Modeling
+
+**Tools:** Python, pandas, lifelines, scikit-learn, xgboost, keras, seaborn, matplotlib  
+**Skills Demonstrated:** Survival analysis (Kaplan-Meier, Cox models), classification modeling, clustering, feature interpretation, medical data analysis
+
+<div class="justify-text">
+  <p><strong>Summary:</strong><br>
+  This project applies survival analysis, machine learning, and unsupervised clustering to the Breast Cancer METABRIC dataset (2,000+ patients). The goal was to analyze patient survival patterns, predict high-risk individuals, and uncover hidden subgroups based on clinical and pathological features. The workflow included data preprocessing, EDA, Kaplan-Meier and Cox regression modeling, binary classification using Random Forest, XGBoost, and Neural Networks, and unsupervised clustering via K-Means.
+  </p>
+
+  <p><strong>Key Insights:</strong></p>
+  <ul>
+    <li>Random Forest and XGBoost models performed best with ROC-AUC scores of 0.79 and accuracy of 72%.</li>
+    <li>Neural Networks improved overall accuracy to 74% but showed similar AUC (0.76), indicating marginal gains from deep learning.</li>
+    <li>Top predictive features included Tumor Size, Nottingham Prognostic Index, and Age.</li>
+    <li>Kaplan-Meier survival curves revealed significant survival differences across tumor stages and treatment types (e.g., hormone therapy).</li>
+    <li>K-Means clustering identified 5 distinct patient subgroups with varying treatment patterns and survival outcomes; Cluster 0 showed the lowest survival probability, while Cluster 1 had the highest.</li>
+  </ul>
+
+  <p><strong>Model Performance Comparison:</strong></p>
+
+<table class="model-table">
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Accuracy</th>
+      <th>ROC-AUC</th>
+      <th>Notable Strength</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Random Forest</td>
+      <td>72%</td>
+      <td>0.79</td>
+      <td>Balanced accuracy and interpretability</td>
+    </tr>
+    <tr>
+      <td>XGBoost</td>
+      <td>72%</td>
+      <td>0.79</td>
+      <td>Handles non-linearity and feature interactions well</td>
+    </tr>
+    <tr>
+      <td>Neural Network (MLP)</td>
+      <td>74%</td>
+      <td>0.76</td>
+      <td>Improved accuracy with deeper architecture</td>
+    </tr>
+    <tr>
+      <td>Logistic Regression</td>
+      <td>70%</td>
+      <td>0.74</td>
+      <td>Baseline interpretability and feature insights</td>
+    </tr>
+  </tbody>
+</table>
+
+<p><strong>Impact:</strong><br>
+This project demonstrates the integration of survival statistics, machine learning, and unsupervised clustering to derive actionable insights from clinical datasets. It supports the development of risk stratification tools and highlights the role of data science in precision oncology.
+  </p>
+</div>
 
 <br>
 
