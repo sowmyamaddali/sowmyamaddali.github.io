@@ -421,6 +421,27 @@ This project demonstrates the integration of survival statistics, machine learni
 
 **Skills Demonstrated:** Data modeling, SQL transformations, dashboard design, KPI tracking, end-to-end data pipeline development
 
+![E-Commerce Sales Dashboard](assets/images/ecommerce-dashboard.png)
+
+<div class="justify-text"> 
+  <p><strong>Summary:</strong><br> This project demonstrates a complete analytics workflow starting from raw transactional data to an interactive dashboard. Using a UK-based e-commerce dataset (2010–2011), I modeled and transformed the data using dbt and DuckDB, queried the final tables using Python, and visualized insights in Tableau Public. 
+  </p>
+
+  <p><strong>Key Insights:</strong></p> 
+  <ul> 
+    <li>Revenue peaked in November–December, revealing strong seasonal trends.</li> 
+    <li>Top products included gift sets and vintage items with high repeat purchases.</li> 
+    <li>The UK dominated revenue generation, followed by the Netherlands and Germany.</li> <li>Customer segmentation showed a small group of high-value buyers contributing disproportionately to sales.</li> 
+  </ul>
+
+  <p><strong>Impact:</strong><br> 
+    This dashboard supports retail decision-making by tracking KPIs like monthly revenue, top-performing products, customer behavior, and geographic distribution. It reflects the real-world utility of data modeling tools like dbt combined with storytelling through Tableau. 
+  </p> 
+</div>
+
+📍 [View interactive dashboard on Tableau Public](https://public.tableau.com/views/E-CommerceSalesDashboard_17450876728310/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+<br>
 
 
 ### Virginia Air Quality Dashboard
