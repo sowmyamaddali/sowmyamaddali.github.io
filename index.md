@@ -25,12 +25,12 @@ I’m a Data Scientist with a passion for transforming complex data into actiona
     <tr>
       <td>Master of Science</td>
       <td>George Washington University, DC, USA</td>
-      <td>3.97</td>
+      <td><strong>3.97</strong></td>
     </tr>
     <tr>
       <td>Bachelor of Engineering</td>
       <td>Visvesvaraya Technological University, KA, India</td>
-      <td>8.10</td>
+      <td><strong>8.10</strong></td>
     </tr>
   </tbody>
 </table>
