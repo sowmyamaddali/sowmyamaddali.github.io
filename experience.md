@@ -41,8 +41,8 @@ _Team_ : _Asset Management_
 <br>
 
 
-### Machine Learning Intern
-#### Qualcomm - Bangalore, KA, India | May 2021 - August 2021
+### Machine Learning Engineer
+#### Qualcomm - Bangalore, KA, India | April 2021 - August 2022
 
 <div class="justify-text">
   <ul>
