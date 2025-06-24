@@ -16,21 +16,23 @@ title: projects
 
 ## <a name="python-ml"></a>Machine Learning & NLP Projects in Python
 
-### Eelectric Vehicle Charging Demand Estimator
-**Tools:** Python, pandas, scikit-learn, Folium, Kepler.gl, matplotlib, seaborn, streamlit
+<h3>Electric Vehicle Charging Demand Estimator</h3>
 
-**Skills Demonstrated:** Geospatial data aggregation & visualization, supervised machine learning (classification & regression), data cleaning & preprocessing, feature engineering from temporal and spatial EV data, interactive app development with Streamlit, model evaluation and metric interpretation.
+<p><strong>Tools:</strong> Python, pandas, scikit-learn, Folium, Kepler.gl, matplotlib, seaborn, Streamlit</p>
+
+<p><strong>Skills Demonstrated:</strong> Geospatial data aggregation & visualization, supervised machine learning (classification & regression), data cleaning & preprocessing, feature engineering from temporal and spatial EV data, interactive app development with Streamlit, model evaluation and metric interpretation.</p>
 
 <div class="justify-text">
   <p><strong>Summary:</strong><br>
-  The EV Charging Demand Estimator is a data-driven tool designed to help policymakers and energy providers identify underserved areas for EV infrastructure expansion. Using publicly available EV population data, the project estimates where public charging stations are most needed across regions by analyzing EV density, vehicle type, and location-based demand signals.
-
-  Two models were developed:
-	<li>Classification model to label high/medium/low demand regions.</li>
-	<li>Regression model to predict the expected number of EVs per region.</li>
-
-Visual insights and model outputs were deployed through a user-friendly Streamlit app.
+    The EV Charging Demand Estimator is a data-driven tool designed to help policymakers and energy providers identify underserved areas for EV infrastructure expansion. Using publicly available EV population data, the project estimates where public charging stations are most needed across regions by analyzing EV density, vehicle type, and location-based demand signals.
   </p>
+
+  <ul>
+    <li>Classification model to label high/medium/low demand regions.</li>
+    <li>Regression model to predict the expected number of EVs per region.</li>
+  </ul>
+
+  <p>Visual insights and model outputs were deployed through a user-friendly Streamlit app.</p>
 
   <p><strong>Key Insights:</strong></p>
   <ul>
@@ -40,42 +42,41 @@ Visual insights and model outputs were deployed through a user-friendly Streamli
   </ul>
 
   <table class="model-table">
-  <thead>
-    <tr>
-      <th>Model Type</th>
-      <th>Algorithm</th>
-      <th>Accuracy / R²</th>
-      <th>Key Metrics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Classification</td>
-      <td>Random Forest Classifier</td>
-      <td>0.79 (Accuracy)</td>
-      <td>F1-score: 0.80</td>
-    </tr>
-    <tr>
-      <td>Regression</td>
-      <td>Random Forest Regressor</td>
-      <td>0.89 (R^2 Score)</td>
-      <td>RMSE: 0.54</td>
-    </tr>
-  </tbody>
-</table>
+    <thead>
+      <tr>
+        <th>Model Type</th>
+        <th>Algorithm</th>
+        <th>Accuracy / R²</th>
+        <th>Key Metrics</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Classification</td>
+        <td>Random Forest Classifier</td>
+        <td>0.79 (Accuracy)</td>
+        <td>F1-score: 0.80</td>
+      </tr>
+      <tr>
+        <td>Regression</td>
+        <td>Random Forest Regressor</td>
+        <td>0.89 (R² Score)</td>
+        <td>RMSE: 0.54</td>
+      </tr>
+    </tbody>
+  </table>
 
-<p><strong>Impact:</strong><br>
-  <li>Enables data-driven planning for EV infrastructure rollouts.</li>
-  <li>Helps local governments and private investors prioritize regions with unmet charging needs.</li>
-  <li>Encourages equitable access to EV charging across urban and rural areas.</li>
-  <li>Supports sustainability goals by accelerating EV adoption through better infrastructure.</li>
-
+  <p><strong>Impact:</strong></p>
+  <ul>
+    <li>Enables data-driven planning for EV infrastructure rollouts.</li>
+    <li>Helps local governments and private investors prioritize regions with unmet charging needs.</li>
+    <li>Encourages equitable access to EV charging across urban and rural areas.</li>
+    <li>Supports sustainability goals by accelerating EV adoption through better infrastructure.</li>
+  </ul>
 </div>
 
-📍[View Code](https://github.com/sowmyamaddali/ev-market-size-case-study/tree/main)
-
+<p>📍<a href="https://github.com/sowmyamaddali/ev-market-size-case-study/tree/main" target="_blank">View Code</a></p>
 <br>
-
 
 
 ### Customer Churn Prediction
