@@ -71,11 +71,12 @@ Visual insights and model outputs were deployed through a user-friendly Streamli
   <li>Supports sustainability goals by accelerating EV adoption through better infrastructure.</li>
 
 </div>
-<br>
 
 📍[View Code](https://github.com/sowmyamaddali/ev-market-size-case-study/tree/main)
 
 <br>
+
+
 
 ### Customer Churn Prediction
 **Tools:** Python, pandas, scikit-learn, imbalanced-learn, seaborn, matplotlib  
